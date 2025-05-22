@@ -1,0 +1,498 @@
+[
+  {
+    "id": "clip_100_caption_embedding_frame_7470.jpg",
+    "caption": "The image features a woman with blonde hair, looking directly into the camera. She appears to be wearing a black shirt and is situated in a room with a red glow. The room has a distinctive red and black color scheme, creating a unique atmosphere. The woman's gaze is intense, and her expression seems to be a mix of curiosity and determination."
+  },
+  {
+    "id": "clip_101_caption_embedding_frame_7530.jpg",
+    "caption": "The image features a woman with blonde hair, wearing a scarf, and looking upward. She appears to be in a dark room, possibly a basement, with a red glow illuminating the area. The woman's mouth is open, and she seems to be looking up at something.\n\nThere is a chair located in the background, and a handbag can be seen placed nearby. The overall atmosphere of the scene is mysterious and intriguing."
+  },
+  {
+    "id": "clip_102_caption_embedding_frame_7620.jpg",
+    "caption": "The image features a person standing in front of a mirror, possibly in a bathroom. The person is pointing at their reflection in the mirror, possibly indicating something about their appearance or the room. Another person is visible in the background, but their actions are not clear.\n\nThere are two handbags in the scene, one located near the center of the image and the other towards the right side. The handbags might belong to the people in the room or be placed there for convenience."
+  },
+  {
+    "id": "clip_103_caption_embedding_frame_7680.jpg",
+    "caption": "The image features a person with their hands cuffed together, likely in a red room. The person is wearing a ring on their finger, and their hands are positioned close to each other. The scene appears to be a close-up of the person's hands, emphasizing the cuffed hands and the ring on their finger."
+  },
+  {
+    "id": "clip_104_caption_embedding_frame_7770.jpg",
+    "caption": "The image features a person with their hands covered in red paint, likely in the process of painting a wall or a piece of art. The person is standing in front of a mirror, which reflects their hands and the red paint. The scene appears to be a creative and artistic environment."
+  },
+  {
+    "id": "clip_105_caption_embedding_frame_7845.jpg",
+    "caption": "The image features a young woman lying on her back, with her head resting on a man's chest. The man is sitting on the floor, and the woman appears to be sleeping or resting comfortably. The scene is set in a room with a couch in the background."
+  },
+  {
+    "id": "clip_106_caption_embedding_frame_7935.jpg",
+    "caption": "The image features a woman with a red wristband, who is looking at another person's face. The woman with the red wristband is wearing a watch on her wrist. The scene appears to be taking place in a dark room, with the woman's face being the main focus of the image."
+  },
+  {
+    "id": "clip_107_caption_embedding_frame_7950.jpg",
+    "caption": "The image features a woman with a red wristband, who is leaning in close to another woman. The woman with the red wristband appears to be whispering something to the other woman, who is looking up at her. The scene takes place in a dark room, with the two women being the main focus of the image."
+  },
+  {
+    "id": "clip_108_caption_embedding_frame_8025.jpg",
+    "caption": "The image features a woman with a scarf wrapped around her head, sitting in a dark room. She appears to be wearing a black outfit and has her mouth open, possibly making a sound or expressing an emotion. The woman is positioned in the center of the scene, and her face is partially obscured by the darkness."
+  },
+  {
+    "id": "clip_109_caption_embedding_frame_8115.jpg",
+    "caption": "The image features a man and a woman standing close to each other, with their faces pressed together. They appear to be kissing or engaging in a passionate moment. The woman is wearing a scarf, adding a touch of elegance to the scene. The man and woman are the main focus of the image, capturing the intimate moment between them."
+  },
+  {
+    "id": "clip_10_caption_embedding_frame_675.jpg",
+    "caption": "The image features a woman wearing a headscarf, standing in an elevator. She appears to be looking down, possibly at her phone or the floor below. The elevator is surrounded by a black background, which emphasizes the woman's presence.\n\nThere is another person in the scene, standing to the right of the woman. The elevator itself occupies a significant portion of the image, with the woman positioned in the middle of the scene."
+  },
+  {
+    "id": "clip_110_caption_embedding_frame_8205.jpg",
+    "caption": "The image features a close-up view of a digital clock with the time displayed as 28 degrees. The clock is mounted on a wall, possibly in a stairwell or an elevator. The clock's display is clearly visible, making it easy to read the time."
+  },
+  {
+    "id": "clip_111_caption_embedding_frame_8265.jpg",
+    "caption": "The image features a woman with a bloody face, possibly a zombie or a person with a severe injury. She is wearing a floral shirt and has a large amount of blood on her face. The woman appears to be in a state of distress or pain.\n\nIn the background, there is a chair and a handbag placed nearby. The scene seems to be set in a room, with the woman being the main focus of the image."
+  },
+  {
+    "id": "clip_112_caption_embedding_frame_8355.jpg",
+    "caption": "The image features a woman with long hair, wearing a black shirt and a scarf. She is smiling and has a red substance on her face, possibly blood or makeup. The woman appears to be enjoying herself and is the main focus of the scene."
+  },
+  {
+    "id": "clip_113_caption_embedding_frame_8445.jpg",
+    "caption": "The image features a young woman with red makeup on her face, possibly a red lipstick or a red substance on her cheeks. She is smiling and appears to be enjoying herself. The woman is wearing a black jacket, which adds a contrast to the red makeup on her face. The scene is set in a room with a door visible in the background."
+  },
+  {
+    "id": "clip_114_caption_embedding_frame_8520.jpg",
+    "caption": "The image features a woman with a red substance on her face, possibly blood. She is wearing a red shirt and a scarf, which is covering her mouth. The woman appears to be in a dark room, possibly a basement, as she is sitting down.\n\nThere are two other people in the scene, one on the left side and another on the right side. The first person is partially visible, while the second person is fully visible, standing behind the woman with the red substance on her face."
+  },
+  {
+    "id": "clip_115_caption_embedding_frame_8550.jpg",
+    "caption": "The image features a woman with a bloody nose, smiling and laughing while making a funny face. She is wearing a black jacket and has a scarf around her neck. The woman appears to be enjoying herself despite the blood on her face."
+  },
+  {
+    "id": "clip_116_caption_embedding_frame_8640.jpg",
+    "caption": "The image features a digital clock with the time displayed as 4:00. The clock is positioned on the left side of the image, and the time is clearly visible. The clock's face is illuminated, making it easy to read the time."
+  },
+  {
+    "id": "clip_117_caption_embedding_frame_8730.jpg",
+    "caption": "The image features a close-up of a set of buttons on a machine, possibly a vending machine or an elevator. The buttons are arranged in a row, with some of them being red. The buttons are illuminated, giving the scene a glowing appearance. The buttons are positioned in a way that they can be easily seen and accessed by the user."
+  },
+  {
+    "id": "clip_118_caption_embedding_frame_8805.jpg",
+    "caption": "The image features a room with a wooden door and a light fixture mounted on the wall. The light fixture is illuminating the room, creating a warm atmosphere. The light is shining on the door, highlighting its texture and design. The room appears to be a living space, with a comfortable and inviting ambiance."
+  },
+  {
+    "id": "clip_119_caption_embedding_frame_8895.jpg",
+    "caption": "The image depicts a person lying on the floor, possibly dead or unconscious. The scene appears to be set in a room with a metal door, and there is a person standing nearby, possibly observing the situation. The room also has a sink and a cup placed on a surface.\n\nIn the background, there is a person standing near the edge of the image, possibly observing the scene or waiting for assistance. The overall atmosphere of the image is tense and dramatic."
+  },
+  {
+    "id": "clip_11_caption_embedding_frame_765.jpg",
+    "caption": "The image features a woman wearing a headscarf, standing in an elevator. She appears to be looking at the camera, possibly posing for a picture. The elevator is surrounded by a few other people, with one person standing close to the left side of the elevator, another person on the right side, and a third person in the background. The scene captures the everyday life of people using the elevator."
+  },
+  {
+    "id": "clip_120_caption_embedding_frame_8955.jpg",
+    "caption": "The image depicts a woman lying on the floor of a room, possibly a basement or a darkened area. She is wearing a black dress and appears to be in distress. There is a man standing nearby, possibly observing the situation or trying to help the woman.\n\nThe room has a metal door, which is open, allowing the woman to enter. The scene also features a chair located in the background, and a clock on the wall. The overall atmosphere of the image suggests a sense of urgency or concern for the woman's well-being."
+  },
+  {
+    "id": "clip_121_caption_embedding_frame_9015.jpg",
+    "caption": "The image depicts a woman lying on the floor, possibly in a hallway or a room, with blood on her face. She appears to be in distress or possibly injured. A man is standing nearby, looking down at the woman.\n\nThe room has a few chairs placed around the area, with one chair located near the left side of the room and another chair closer to the right side. The scene suggests a sense of urgency or concern for the woman's well-being."
+  },
+  {
+    "id": "clip_122_caption_embedding_frame_9090.jpg",
+    "caption": "The image depicts a woman lying on the floor, possibly in a cell or a confined space. She is wearing a black dress and appears to be in distress. There are two people in the scene, one standing near the woman and another person standing further away.\n\nThe room has a dingy appearance, with a couch located in the background. A chair is also present in the scene, positioned near the couch. The overall atmosphere of the image suggests a sense of confinement and distress."
+  },
+  {
+    "id": "clip_123_caption_embedding_frame_9210.jpg",
+    "caption": "The image features a black door with a blue light shining through it. The light appears to be coming from a blue tube or a blue light bulb, creating a striking contrast against the dark background. The blue light is located towards the top of the door, and it seems to be illuminating the area around it."
+  },
+  {
+    "id": "clip_124_caption_embedding_frame_9240.jpg",
+    "caption": "The image is a black and white photo of a night sky. The sky is filled with a multitude of stars, creating a beautiful and serene atmosphere. The stars are scattered throughout the sky, with some appearing closer to the viewer and others further away. The overall effect is a captivating and peaceful representation of the night sky."
+  },
+  {
+    "id": "clip_12_caption_embedding_frame_870.jpg",
+    "caption": "The image features a woman wearing a headscarf, standing in an elevator and looking down at her cell phone. She is holding the phone in her hand, possibly checking messages or browsing the internet. The elevator is surrounded by a few buttons, indicating that it is a public transportation vehicle."
+  },
+  {
+    "id": "clip_13_caption_embedding_frame_945.jpg",
+    "caption": "The image features a piece of raw meat, possibly a piece of beef, sitting on a metal surface. The meat is placed in the center of the scene, and it appears to be a close-up view of the raw meat. The metal surface could be a part of a kitchen counter or a table."
+  },
+  {
+    "id": "clip_14_caption_embedding_frame_1020.jpg",
+    "caption": "The image features a person's hand pressing a button on a control panel, likely a button on an elevator. The hand is positioned near the center of the panel, and the button is located towards the right side of the panel. The scene appears to be captured in a close-up view, emphasizing the action of pressing the button."
+  },
+  {
+    "id": "clip_15_caption_embedding_frame_1050.jpg",
+    "caption": "The image features a woman standing in an elevator, looking at her reflection in the mirror. She is wearing a red scarf and has her hair pulled back. The elevator is surrounded by a few other people, with one person standing close to the left side of the elevator and another person standing further back on the right side.\n\nThere is a handbag placed near the right side of the elevator, and a clock can be seen on the wall above the elevator. The scene captures a moment of self-reflection for the woman in the elevator."
+  },
+  {
+    "id": "clip_16_caption_embedding_frame_1140.jpg",
+    "caption": "The image features a woman wearing a headscarf, standing in an elevator. She is looking down at her hand, possibly holding a cell phone. The elevator is surrounded by a few other people, with one person standing close to the left side of the elevator and another person on the right side.\n\nThere are two cell phones visible in the scene, one held by the woman and another one placed on a surface. The overall atmosphere of the image suggests a busy and bustling environment."
+  },
+  {
+    "id": "clip_17_caption_embedding_frame_1215.jpg",
+    "caption": "The image features a woman wearing a headscarf and a black jacket, standing in front of a mirror. She appears to be looking at her reflection in the mirror. The woman is positioned in the center of the scene, and the mirror is located on the right side of the image. The overall atmosphere of the scene suggests a moment of self-reflection or contemplation."
+  },
+  {
+    "id": "clip_18_caption_embedding_frame_1305.jpg",
+    "caption": "The image features a woman wearing a headscarf, standing in front of a mirror. She appears to be looking at her reflection in the mirror. The woman is positioned in the center of the scene, and the mirror is located on the right side of the image. The overall atmosphere of the scene is calm and focused on the woman's reflection."
+  },
+  {
+    "id": "clip_19_caption_embedding_frame_1410.jpg",
+    "caption": "The image features a person wearing a flowery scarf, with their face partially covered by the fabric. The person is standing in a room, possibly a hallway, with a door visible in the background. The room appears to be dimly lit, creating a cozy atmosphere."
+  },
+  {
+    "id": "clip_1_caption_embedding_frame_0.jpg",
+    "caption": "The image is a black and white photo of a night sky. The sky is filled with a multitude of stars, creating a beautiful and serene atmosphere. The stars are scattered throughout the sky, with some appearing closer to the viewer and others further away. The overall effect is a captivating and peaceful representation of the night sky."
+  },
+  {
+    "id": "clip_20_caption_embedding_frame_1455.jpg",
+    "caption": "The image features a woman wearing a floral headscarf, with her head resting on another person's shoulder. The woman is wearing a ring on her finger, and there is a handbag placed nearby. The scene appears to be set in a dark room, with the woman and the person she is leaning on being the main focus of the image."
+  },
+  {
+    "id": "clip_21_caption_embedding_frame_1500.jpg",
+    "caption": "The image features a woman wearing a floral-patterned hooded garment, standing in a dark room. She appears to be looking at something, possibly a door or a window. The room is dimly lit, creating a mysterious atmosphere. The woman's outfit and the overall setting suggest that she might be in a historical or vintage setting."
+  },
+  {
+    "id": "clip_22_caption_embedding_frame_1605.jpg",
+    "caption": "The image features a woman wearing a floral scarf, standing in front of an elevator. She is positioned near the center of the scene, with the elevator door visible in the background. The woman appears to be waiting for the elevator to open, possibly to go up or down the building."
+  },
+  {
+    "id": "clip_23_caption_embedding_frame_1680.jpg",
+    "caption": "The image features a woman wearing a colorful, floral-patterned headscarf. She is standing in a dark room, possibly a hallway or a doorway. The room appears to be dimly lit, creating a somewhat mysterious atmosphere. The woman's headscarf is the main focus of the scene, drawing attention to her attire."
+  },
+  {
+    "id": "clip_24_caption_embedding_frame_1755.jpg",
+    "caption": "The image features a woman wearing a flowery headscarf, standing in a room with a doorway. She is positioned near the center of the scene, and her headscarf is adorned with a pattern of flowers. The room appears to be dimly lit, creating a cozy atmosphere."
+  },
+  {
+    "id": "clip_25_caption_embedding_frame_1830.jpg",
+    "caption": "The image features a woman wearing a colorful flowered headscarf, standing in a dark room. She is positioned near a door, possibly entering or exiting the room. The woman's headscarf is the main focus of the scene, adding a vibrant touch to the otherwise dimly lit environment."
+  },
+  {
+    "id": "clip_26_caption_embedding_frame_1890.jpg",
+    "caption": "The image features a woman wearing a flowery scarf, standing in front of an elevator. She is holding the door open, allowing someone to enter the elevator. The elevator is located on the left side of the scene.\n\nThere are two other people in the image, one standing closer to the left side and the other person is located near the center of the scene. The woman with the flowery scarf appears to be the main focus of the image."
+  },
+  {
+    "id": "clip_27_caption_embedding_frame_1995.jpg",
+    "caption": "The image features a woman standing in an elevator, wearing a scarf and a hat. She appears to be looking at the buttons on the elevator wall, possibly trying to find the right one to press. The elevator is located in a building, and the woman is the main focus of the scene."
+  },
+  {
+    "id": "clip_28_caption_embedding_frame_2025.jpg",
+    "caption": "The image features a woman wearing a flowery headscarf, standing in a room with a doorway. She is positioned near the center of the scene, and her headscarf is adorned with a pattern of flowers. The room appears to be a bathroom, as there is a toilet visible in the background. The woman seems to be looking at the camera, capturing her attention."
+  },
+  {
+    "id": "clip_29_caption_embedding_frame_2115.jpg",
+    "caption": "The image features a person wearing a floral hat, standing in a room with a doorway. The person appears to be looking at something, possibly a cell phone, as they are holding it in their hand. The room has a doorway, and the person is standing close to it. The scene is captured in a black and white photo, giving it a classic and timeless feel."
+  },
+  {
+    "id": "clip_2_caption_embedding_frame_75.jpg",
+    "caption": "The image is a black and white photo of a night sky. The sky is filled with a multitude of stars, creating a beautiful and serene atmosphere. The stars are scattered throughout the sky, with some appearing closer to the viewer and others further away. The overall effect is a captivating and peaceful representation of the night sky."
+  },
+  {
+    "id": "clip_30_caption_embedding_frame_2235.jpg",
+    "caption": "The image features a woman wearing a flowery scarf and a black coat, standing in front of an elevator. She is holding onto the elevator door, possibly waiting for it to open. The elevator is located on the left side of the scene, and the woman is positioned towards the center.\n\nThere are two clocks visible in the image, one on the left side and the other on the right side. The clock on the left is closer to the top of the scene, while the clock on the right is situated near the bottom."
+  },
+  {
+    "id": "clip_31_caption_embedding_frame_2295.jpg",
+    "caption": "The image features a woman wearing a scarf and a flowery shawl, standing in a room with an elevator. She appears to be looking at the elevator door, possibly waiting for it to open. The room has a few chairs placed around the area, with one chair located near the left side of the room and another chair closer to the right side."
+  },
+  {
+    "id": "clip_32_caption_embedding_frame_2355.jpg",
+    "caption": "The image features a woman wearing a headscarf and a black shawl, standing in front of an elevator. She is leaning against the elevator door, possibly waiting for it to open. The woman appears to be looking at the camera, capturing her attention.\n\nIn the scene, there are two handbags, one located near the woman and the other further away. Additionally, there is a cell phone placed on a surface, possibly belonging to the woman or someone else in the vicinity."
+  },
+  {
+    "id": "clip_33_caption_embedding_frame_2400.jpg",
+    "caption": "The image features a woman wearing a headscarf, standing in a dark room and looking at the camera. She appears to be in a somewhat startled or surprised expression. The room has a doorway, and the woman is positioned close to it.\n\nThere are two handbags in the scene, one located near the woman and the other further away. Additionally, there is a cell phone placed on a surface in the room."
+  },
+  {
+    "id": "clip_34_caption_embedding_frame_2505.jpg",
+    "caption": "The image features a woman with blonde hair, wearing a black shirt and a necklace. She is standing in a room, possibly a hallway or an elevator, and appears to be looking up. The woman is holding a cell phone to her ear, possibly engaged in a conversation or using it for navigation.\n\nThere are two cell phones in the scene, one held by the woman and another placed on a surface nearby. The room also contains a clock on the wall, providing a sense of time for those in the space."
+  },
+  {
+    "id": "clip_35_caption_embedding_frame_2550.jpg",
+    "caption": "The image features a woman with long hair, wearing a black shirt and a red necklace. She is looking down, possibly at her cell phone, which is placed in front of her. The woman appears to be in a dark room, possibly a hallway or a room with low lighting."
+  },
+  {
+    "id": "clip_36_caption_embedding_frame_2640.jpg",
+    "caption": "The image features a woman with long hair, wearing a red shirt and a necklace. She is standing in a room, possibly a hallway, with her eyes closed. The woman appears to be posing for a picture, possibly in a dimly lit setting."
+  },
+  {
+    "id": "clip_37_caption_embedding_frame_2700.jpg",
+    "caption": "The image features a woman wearing a red shirt and a headscarf, standing in a room. She appears to be looking at the camera with a somewhat surprised expression. The room has a doorway, and the woman is positioned near it. The scene is captured in a black and white photo, giving it a classic and timeless feel."
+  },
+  {
+    "id": "clip_38_caption_embedding_frame_2820.jpg",
+    "caption": "The image features a woman with a short haircut, wearing a red shirt and a black jacket. She is looking at the camera with a serious expression. The woman is also wearing a necklace, adding a touch of style to her outfit. The scene appears to be set in a dark room, with the woman standing in the center of the frame."
+  },
+  {
+    "id": "clip_39_caption_embedding_frame_2880.jpg",
+    "caption": "The image features a woman wearing a headscarf, standing in a dark room. She appears to be looking up, possibly at the ceiling or a light source. The room is dimly lit, and the woman's expression suggests that she might be surprised or intrigued by something. The overall atmosphere of the scene is mysterious and captivating."
+  },
+  {
+    "id": "clip_3_caption_embedding_frame_165.jpg",
+    "caption": "The image features a person wearing red Converse shoes. The shoes are positioned on the floor, with the person's feet visible. The person is standing in a room, possibly a kitchen, as there is a refrigerator in the background. The scene captures the casual and comfortable atmosphere of the person wearing the Converse shoes."
+  },
+  {
+    "id": "clip_40_caption_embedding_frame_2955.jpg",
+    "caption": "The image features a close-up of a button on a remote control. The button is blue and has a white letter \"G\" on it. The button appears to be part of a car's remote control system, as it is located on a car's dashboard. The focus of the image is on the button, highlighting its design and color."
+  },
+  {
+    "id": "clip_41_caption_embedding_frame_3015.jpg",
+    "caption": "The image features a close-up of a button with the number \"1\" on it. The button is located on a surface, possibly a wall or a piece of furniture. The focus of the image is on the button, highlighting its design and the number \"1\" written on it."
+  },
+  {
+    "id": "clip_42_caption_embedding_frame_3120.jpg",
+    "caption": "The image features a close-up view of a button panel with a total of six buttons. The buttons are arranged in a row, with the first button on the left side and the last button on the right side. The buttons are illuminated, indicating that they are currently active. The buttons are positioned at various heights, with some buttons being higher than others. The panel appears to be part of an elevator or a similar device."
+  },
+  {
+    "id": "clip_43_caption_embedding_frame_3150.jpg",
+    "caption": "The image features a close-up view of a set of buttons on a machine, possibly a vending machine or an elevator. The buttons are arranged in a row, with the first button on the left side and the last button on the right side. The buttons are illuminated, making them stand out against the dark background. The buttons are positioned at various heights, with some closer to the top and others near the bottom."
+  },
+  {
+    "id": "clip_44_caption_embedding_frame_3285.jpg",
+    "caption": "The image features a woman wearing a red shirt and a scarf, standing in a room with a shower curtain. She appears to be looking up, possibly at the shower curtain or something else in the room. The woman is also wearing a necklace, adding a touch of elegance to her outfit. The room seems to be a bathroom, as there is a shower curtain present."
+  },
+  {
+    "id": "clip_45_caption_embedding_frame_3345.jpg",
+    "caption": "The image features a woman wearing a headscarf, standing in a room with her mouth open. She appears to be looking up, possibly at the ceiling or a light source. The room has a staircase in the background, and the woman is positioned near the center of the scene."
+  },
+  {
+    "id": "clip_46_caption_embedding_frame_3435.jpg",
+    "caption": "The image features a woman wearing a headscarf, standing in a room and brushing her teeth. She is positioned in the center of the scene, with her head turned to the side. The room appears to be a bathroom, as there is a sink visible in the background.\n\nAdditionally, there are two handbags in the scene, one located near the woman and the other further away. The handbags are placed on the floor, possibly indicating that the woman is in the process of organizing or packing her belongings."
+  },
+  {
+    "id": "clip_47_caption_embedding_frame_3450.jpg",
+    "caption": "The image features a woman with blonde hair, wearing a scarf and a red shirt. She is making a funny face and appears to be laughing or enjoying herself. The woman is standing in a room, possibly a hallway or a living space.\n\nThere are two other people in the scene, one located on the left side and the other on the right side of the image. The room also contains a chair, which is situated in the background, and a clock on the wall."
+  },
+  {
+    "id": "clip_48_caption_embedding_frame_3540.jpg",
+    "caption": "The image features a woman wearing a red shirt and a scarf, standing in a dark room. She appears to be looking up, possibly at the ceiling or a light source. The room has a somewhat eerie atmosphere, with a blue light illuminating the space. The woman's expression and posture suggest that she might be reacting to something or someone in the room."
+  },
+  {
+    "id": "clip_49_caption_embedding_frame_3660.jpg",
+    "caption": "The image features a woman wearing a flowery scarf and a black hooded jacket. She is standing in a room, possibly a hallway or a stairwell, with her back turned to the viewer. The woman appears to be looking down, possibly at a piece of paper or a book.\n\nThere are two books visible in the scene, one located near the bottom left corner and the other near the top right corner. The room also contains a chair, which is situated in the middle of the scene."
+  },
+  {
+    "id": "clip_4_caption_embedding_frame_240.jpg",
+    "caption": "The image features a person, likely a woman, reaching out to press a button on a door. The door is a part of a building, and the person is standing close to it. The person is wearing a ring on their finger, which is visible as they press the button. The scene captures the moment when the person is about to open the door."
+  },
+  {
+    "id": "clip_50_caption_embedding_frame_3735.jpg",
+    "caption": "The image features a woman with a head scarf, standing in a dark room. She appears to be in distress, possibly due to a fearful situation. The woman is wearing a black shirt and has her mouth open, possibly expressing her emotions.\n\nThe room has a few other elements, such as a chair located in the background and a clock on the wall. The overall atmosphere of the scene suggests a sense of unease or tension."
+  },
+  {
+    "id": "clip_51_caption_embedding_frame_3750.jpg",
+    "caption": "The image features a woman with long hair, wearing a scarf, and looking upward. She appears to be in a dark room, possibly a hallway or a stairwell. The woman's expression suggests that she is in distress or discomfort.\n\nThere are two other people in the scene, one standing closer to the left side of the image and the other person located near the center. The room also contains a chair, which is situated near the center of the scene."
+  },
+  {
+    "id": "clip_52_caption_embedding_frame_3855.jpg",
+    "caption": "The image features a woman wearing a headscarf, standing in a room with her mouth open. She appears to be making a funny face or reacting to something. The room has a blue-lit atmosphere, which adds to the overall ambiance of the scene."
+  },
+  {
+    "id": "clip_53_caption_embedding_frame_3900.jpg",
+    "caption": "The image features a woman wearing a red shirt and a headscarf, standing in a dark room. She appears to be looking up, possibly at the ceiling or a light source. The room has a doorway, and the woman is positioned near it. The overall atmosphere of the scene is mysterious and intriguing."
+  },
+  {
+    "id": "clip_54_caption_embedding_frame_3975.jpg",
+    "caption": "The image features a woman wearing a headscarf, standing in a dark room. She appears to be looking at something, possibly a camera or a person. The room has a doorway, and the woman is positioned near it. The overall atmosphere of the scene is mysterious and intriguing."
+  },
+  {
+    "id": "clip_55_caption_embedding_frame_4065.jpg",
+    "caption": "The image features a woman with long hair, wearing a red shirt and a scarf. She appears to be in a dark room, possibly a basement, with a blue light illuminating the area. The woman is looking up, possibly at a light source or an object in the room. The room has a doorway, and the woman is standing near it."
+  },
+  {
+    "id": "clip_56_caption_embedding_frame_4185.jpg",
+    "caption": "The image features a woman wearing a red shirt and a scarf, standing in a room with her mouth open. She appears to be looking up, possibly at a light or an object in the room. The room has a staircase, and the woman is standing near the bottom of the staircase."
+  },
+  {
+    "id": "clip_57_caption_embedding_frame_4245.jpg",
+    "caption": "The image features a person wearing a colorful jacket, standing in a room with their arms raised. They appear to be engaged in a conversation or possibly dancing. The room has a doorway and a window, providing a view of the outside.\n\nThere are two cell phones in the scene, one located near the center of the room and the other closer to the right side. Additionally, there is a handbag placed on the floor, near the center of the room."
+  },
+  {
+    "id": "clip_58_caption_embedding_frame_4290.jpg",
+    "caption": "The image features a person wearing a black shirt, reaching out to touch a metal surface. The person's hand is visible, with a ring on the finger, as they attempt to grasp the metal. The scene appears to be set in a dark room, with the person's hand being the main focus of the image."
+  },
+  {
+    "id": "clip_59_caption_embedding_frame_4365.jpg",
+    "caption": "The image features a person holding a piece of paper or a book, possibly a menu, and placing it on a counter or table. The person is standing in front of a surface, which could be a dining table or a counter. The scene appears to be indoors, with the person being the main focus of the image."
+  },
+  {
+    "id": "clip_5_caption_embedding_frame_345.jpg",
+    "caption": "The image features a woman wearing sunglasses and a headscarf, standing in a hallway. She is holding a handbag and appears to be posing for the camera. The woman is the main focus of the scene, and her outfit and accessories give her a unique and stylish appearance."
+  },
+  {
+    "id": "clip_60_caption_embedding_frame_4425.jpg",
+    "caption": "The image features a woman with long hair, wearing a black shirt and holding a piece of paper. She appears to be looking at the paper, possibly reading or examining it. The woman is standing in a room with a door visible in the background. The scene is dimly lit, creating a somewhat mysterious atmosphere."
+  },
+  {
+    "id": "clip_61_caption_embedding_frame_4545.jpg",
+    "caption": "The image features a woman with long hair, wearing a black shirt and a scarf. She is looking down at a piece of paper, possibly reading or examining it. The woman appears to be in a room with a doorway, possibly a hallway or an entrance. The scene is dimly lit, creating a somewhat mysterious atmosphere."
+  },
+  {
+    "id": "clip_62_caption_embedding_frame_4590.jpg",
+    "caption": "The image features a person holding a piece of paper with a message written on it. The message is written in a cursive style and reads, \"Only your wrist.\" The person is wearing a ring on their finger, which is visible in the scene. The paper is placed in the person's hand, and they are holding it up to the camera."
+  },
+  {
+    "id": "clip_63_caption_embedding_frame_4710.jpg",
+    "caption": "The image features a person's hand holding a pair of scissors, with the scissors being used to cut a piece of paper. The person is focused on the task, and the scissors are positioned in the middle of the paper. The scene appears to be taking place in a dark room, with the person's hand being the main subject of the image."
+  },
+  {
+    "id": "clip_64_caption_embedding_frame_4725.jpg",
+    "caption": "The image features a woman with long hair, wearing a black jacket and a red shirt. She is sitting in a room with a doorway visible in the background. The woman appears to be looking at something, possibly a cell phone or a piece of paper.\n\nThere are two cell phones in the scene, one located near the center of the image and the other towards the right side. Additionally, there is a bottle placed on a surface in the room."
+  },
+  {
+    "id": "clip_65_caption_embedding_frame_4830.jpg",
+    "caption": "The image features a woman with long hair, wearing a scarf and a red shirt. She is standing in a room with a staircase in the background. The woman appears to be looking up, possibly at the staircase or something else in the room.\n\nThere are two other people in the scene, one standing near the left side of the image and the other person located towards the right side. A handbag can be seen placed on the floor, close to the woman in the red shirt."
+  },
+  {
+    "id": "clip_66_caption_embedding_frame_4905.jpg",
+    "caption": "The image features a person with a punk rock hairstyle, possibly a woman, standing in an elevator. The person appears to be making a funny face, possibly due to the elevator's movement or their own amusement. The elevator is located in a building, and the person seems to be enjoying their time in the elevator."
+  },
+  {
+    "id": "clip_67_caption_embedding_frame_4995.jpg",
+    "caption": "The image features a close-up view of a set of buttons on a machine, possibly a vending machine or a control panel. The buttons are arranged in a row, with some of them being larger than others. The buttons are illuminated, giving the scene a blue hue. The buttons are positioned in a way that they can be easily seen and accessed by the user."
+  },
+  {
+    "id": "clip_68_caption_embedding_frame_5040.jpg",
+    "caption": "The image features a woman with long hair, wearing a headscarf, and crying. She is looking upwards, possibly towards the ceiling or the sky. The woman appears to be in a room with a doorway, and there is a handbag placed nearby. The scene captures the woman's emotional state and the context of her surroundings."
+  },
+  {
+    "id": "clip_69_caption_embedding_frame_5145.jpg",
+    "caption": "The image features a woman with blonde hair, wearing a scarf, and looking upwards. She appears to be in a public setting, possibly a subway or a train station. The woman is holding a piece of paper, possibly a ticket or a map, as she looks up.\n\nThere are a few other people in the scene, but they are not the main focus. The main focus is on the woman with the scarf, who seems to be the center of attention."
+  },
+  {
+    "id": "clip_6_caption_embedding_frame_375.jpg",
+    "caption": "The image features a woman wearing sunglasses and a scarf, standing in a hallway. She is holding a handbag and appears to be posing for the camera. The woman is positioned in the center of the scene, and the hallway extends to the right side of the image.\n\nIn the background, there are two cars visible, one on the left side and the other on the right side of the hallway. The presence of the cars suggests that the hallway might be located in a parking area or near a road."
+  },
+  {
+    "id": "clip_70_caption_embedding_frame_5190.jpg",
+    "caption": "The image depicts a dark room with a small, bright light shining through a doorway. The light appears to be coming from a window or a doorway, illuminating the room. The rest of the room remains in darkness, creating a contrast between the bright light and the surrounding darkness."
+  },
+  {
+    "id": "clip_71_caption_embedding_frame_5280.jpg",
+    "caption": "The image features a woman with blonde hair, wearing a scarf, and making a face as she is choking. She is standing in front of a large mirror, which reflects her image. The woman appears to be in distress, possibly due to the choking sensation.\n\nIn the background, there is a clock on the wall, and a handbag can be seen placed nearby. The scene captures the woman's reaction to the choking situation, creating a dramatic and intense atmosphere."
+  },
+  {
+    "id": "clip_72_caption_embedding_frame_5325.jpg",
+    "caption": "The image features a close-up view of a digital clock mounted on a wall. The clock displays the time as 8:38. The clock is positioned in the middle of the scene, with the time clearly visible. The wall appears to be made of metal, giving the scene a modern and sleek appearance."
+  },
+  {
+    "id": "clip_73_caption_embedding_frame_5430.jpg",
+    "caption": "The image is a black and white photo of a doorway with a light on the other side. The light is shining through the doorway, creating a silhouette effect. The doorway is located in a dark room, and the light source is positioned to the right of the doorway. The scene captures the contrast between the light and the darkness, emphasizing the doorway as the focal point."
+  },
+  {
+    "id": "clip_74_caption_embedding_frame_5490.jpg",
+    "caption": "The image features a woman with blonde hair, wearing a red shirt and a scarf, making a funny face as she opens her mouth wide. She appears to be in a room with a doorway, possibly a hallway or a room with a door. The woman's facial expression and the way she is posing for the camera create a humorous and lighthearted atmosphere."
+  },
+  {
+    "id": "clip_75_caption_embedding_frame_5550.jpg",
+    "caption": "The image features a close-up of a digital clock with the time displayed as 22 degrees. The clock is mounted on a wall, possibly in a stairwell or a public space. The clock's face is illuminated, making it easy to read the time. The clock's position and design suggest that it is an essential part of the space it is located in."
+  },
+  {
+    "id": "clip_76_caption_embedding_frame_5670.jpg",
+    "caption": "The image is a black and white photo of a night sky. The sky is filled with a multitude of stars, creating a beautiful and serene atmosphere. The stars are scattered throughout the sky, with some appearing closer to the viewer and others further away. The overall effect is a captivating and peaceful representation of the night sky."
+  },
+  {
+    "id": "clip_77_caption_embedding_frame_5700.jpg",
+    "caption": "The image features a small, bright light in the middle of a dark, starless night. The light appears to be a lone star, shining brightly against the black sky. The contrast between the light and the darkness creates a striking visual effect."
+  },
+  {
+    "id": "clip_78_caption_embedding_frame_5835.jpg",
+    "caption": "The image features a close-up of a digital clock with a red display. The clock is mounted on a wall, and it shows the time as 26 degrees. The clock is positioned in the middle of the scene, with the time displayed prominently. The image is in black and white, giving it a classic and timeless appearance."
+  },
+  {
+    "id": "clip_79_caption_embedding_frame_5895.jpg",
+    "caption": "The image features a woman with a mouth open, possibly yelling or making a loud noise. She is wearing a scarf around her neck and has a ring on her finger. The woman appears to be in a room with a doorway, possibly a hallway or a room with a door. The scene captures her intense reaction to something happening around her."
+  },
+  {
+    "id": "clip_7_caption_embedding_frame_465.jpg",
+    "caption": "The image features a woman wearing sunglasses and a black shirt, standing in a room with a glass door. She appears to be looking out of the glass door, possibly observing the surroundings or waiting for someone. The room has a modern and stylish design, with a large glass door and a metal staircase nearby. The woman's outfit and the room's decor create a sense of sophistication and elegance."
+  },
+  {
+    "id": "clip_80_caption_embedding_frame_5925.jpg",
+    "caption": "The image is a black and white photo of a night sky. The sky is filled with a multitude of stars, creating a beautiful and serene atmosphere. The stars are scattered throughout the sky, with some appearing closer to the viewer and others further away. The overall effect is a captivating and peaceful representation of the night sky."
+  },
+  {
+    "id": "clip_81_caption_embedding_frame_6015.jpg",
+    "caption": "The image features a woman with a head scarf, who appears to be crying. She is wearing a black jacket and has a scarf wrapped around her head. The woman is standing in a room, possibly a hallway, with a door visible in the background. The scene captures the emotional moment of the woman's distress."
+  },
+  {
+    "id": "clip_82_caption_embedding_frame_6075.jpg",
+    "caption": "The image features a woman with a scarf around her neck, making a funny face. She appears to be in a dark room, possibly a hallway or a room with a red light. The woman is wearing a black jacket, and her facial expression is quite amusing. The scene captures a candid moment of the woman's playfulness."
+  },
+  {
+    "id": "clip_83_caption_embedding_frame_6210.jpg",
+    "caption": "The image features a woman with blonde hair, wearing a scarf, and making a face as if she is in pain or discomfort. She appears to be crying or experiencing some distress. The woman is standing in a room with a red background, which adds to the dramatic atmosphere of the scene."
+  },
+  {
+    "id": "clip_84_caption_embedding_frame_6240.jpg",
+    "caption": "The image features a woman with blonde hair, wearing a scarf, and crying. She appears to be in a room with a red background, possibly a dark room. The woman's face is covered with her hands, and she is making a sad face. The scene captures her emotional state and the intensity of her crying."
+  },
+  {
+    "id": "clip_85_caption_embedding_frame_6360.jpg",
+    "caption": "The image features a woman with a mouth open, possibly screaming or making a funny face. She is wearing a headscarf and is the main focus of the scene. The background is blurry, and the woman appears to be the only person in the image."
+  },
+  {
+    "id": "clip_86_caption_embedding_frame_6420.jpg",
+    "caption": "The image features two women standing close to each other, with one of them wearing a red shirt. They appear to be engaged in a conversation or sharing a moment. The woman in the red shirt is wearing a necklace, which adds a touch of elegance to her outfit.\n\nThe scene is set in a room with a couch in the background, and a handbag can be seen placed nearby. The women are positioned in the center of the room, creating a sense of intimacy and connection between them."
+  },
+  {
+    "id": "clip_87_caption_embedding_frame_6465.jpg",
+    "caption": "The image features a woman sitting in a chair, wearing a red shirt and a necklace. She is holding a cigarette in her hand, possibly smoking it. The woman appears to be in a dark room, possibly a bar or a similar setting.\n\nThere are two other people in the scene, one standing to the left of the woman and another person standing to the right. A handbag can be seen placed on the floor near the woman. The overall atmosphere of the scene suggests a social gathering or a casual hangout."
+  },
+  {
+    "id": "clip_88_caption_embedding_frame_6525.jpg",
+    "caption": "The image features a woman wearing a red shirt and a necklace. She is holding a piece of paper in her hand, possibly examining it or preparing to write on it. The woman appears to be focused on the paper, possibly reading or reviewing its content."
+  },
+  {
+    "id": "clip_89_caption_embedding_frame_6615.jpg",
+    "caption": "The image features a person's hand holding a ring, with the ring being placed on the person's finger. The hand is positioned in the center of the scene, and the ring is clearly visible. The person's hand is the main focus of the image, with the ring being the central object."
+  },
+  {
+    "id": "clip_8_caption_embedding_frame_585.jpg",
+    "caption": "The image features a woman wearing a headscarf, standing in an elevator. She is looking at the camera, possibly posing for a picture. The elevator is surrounded by a few buttons, indicating that it is a modern and well-equipped space. The woman appears to be the main focus of the scene, capturing the viewer's attention."
+  },
+  {
+    "id": "clip_90_caption_embedding_frame_6690.jpg",
+    "caption": "The image features a person wearing a ring on their finger, with another person's hand placed on top of theirs. The person on the left is wearing a ring, while the person on the right is not wearing one. The scene appears to be a close-up of the two hands, emphasizing the ring on the left hand."
+  },
+  {
+    "id": "clip_91_caption_embedding_frame_6780.jpg",
+    "caption": "The image features a woman with long hair, wearing a scarf, and making a face as she appears to be in distress or discomfort. She is standing in front of a red background, which adds a dramatic touch to the scene. The woman's facial expression and the red background suggest that she might be in a theatrical performance or a similar situation."
+  },
+  {
+    "id": "clip_92_caption_embedding_frame_6825.jpg",
+    "caption": "The image features a person's hand with a ring on their finger. The hand is positioned in the center of the frame, and the ring is clearly visible. The rest of the person's body is not visible in the image. The focus is on the hand and the ring, creating a close-up view of the person's jewelry."
+  },
+  {
+    "id": "clip_93_caption_embedding_frame_6930.jpg",
+    "caption": "The image features a woman with long hair, wearing a headscarf and a black shawl. She is standing in a room with a red background, possibly a club or a bar. The woman appears to be smoking a cigarette, as she is holding a lit cigarette in her mouth. The room has a red ambiance, and the woman is the main focus of the scene."
+  },
+  {
+    "id": "clip_94_caption_embedding_frame_6975.jpg",
+    "caption": "The image features a woman wearing a headscarf, standing in a room with a red background. She appears to be looking at the camera, possibly posing for a picture. The room has a red wall, and the woman is positioned in the center of the scene."
+  },
+  {
+    "id": "clip_95_caption_embedding_frame_7065.jpg",
+    "caption": "The image features a woman wearing a scarf and a hat, standing in a room with a red background. She appears to be looking at something, possibly a camera or a person. The room has a red-toned ambiance, and the woman is the main focus of the scene."
+  },
+  {
+    "id": "clip_96_caption_embedding_frame_7140.jpg",
+    "caption": "The image features a woman with long hair, wearing a scarf, and making a funny face. She appears to be in a public setting, possibly a building or an elevator. The woman is looking down, and her facial expression is quite amusing. The scene captures a candid moment of the woman's playfulness."
+  },
+  {
+    "id": "clip_97_caption_embedding_frame_7245.jpg",
+    "caption": "The image features a woman wearing a headscarf, standing in front of a door. She is holding a piece of food, possibly a pizza, in her hand. The woman appears to be in the process of eating the food.\n\nThere are two other people in the scene, one standing to the left of the woman and another person on the right side. The room has a refrigerator located in the background, and a clock can be seen hanging on the wall."
+  },
+  {
+    "id": "clip_98_caption_embedding_frame_7275.jpg",
+    "caption": "The image depicts a woman with a ring on her finger, looking at her hand. She is standing next to a man who is also looking at her hand. The man is wearing a ring on his finger as well. The scene appears to be taking place in a room with a red hue, possibly a bathroom."
+  },
+  {
+    "id": "clip_99_caption_embedding_frame_7350.jpg",
+    "caption": "The image depicts a woman in a bathroom, reaching out to touch another woman's face. The woman being touched is looking at her reflection in the mirror, while the woman reaching out is also looking at the mirror. The scene appears to be a moment of connection or empathy between the two women.\n\nIn the bathroom, there is a sink visible, and a handbag can be seen placed nearby. The room also contains a clock on the wall, and a cell phone is placed on a surface."
+  },
+  {
+    "id": "clip_9_caption_embedding_frame_615.jpg",
+    "caption": "The image features a woman wearing a headscarf, standing in an elevator. She is looking at her reflection in the mirror, possibly admiring her appearance or checking her appearance. The elevator is surrounded by a few other people, but the woman in the headscarf is the main focus of the scene."
+  }
+]

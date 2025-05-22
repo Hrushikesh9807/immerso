@@ -1,0 +1,730 @@
+[
+  {
+    "id": "clip_100_caption_embedding_frame_7173.jpg",
+    "caption": "The image features a woman dressed in a purple sari, standing in a room with a beautifully decorated ceiling. She is holding a plate of food, possibly a tray of food, and appears to be in a palace setting. The room has a grand atmosphere, with a large chandelier hanging above her. The woman seems to be the main focus of the scene, and her attire and the setting suggest a special occasion or celebration."
+  },
+  {
+    "id": "clip_101_caption_embedding_frame_7260.jpg",
+    "caption": "The image features a beautiful Indian woman dressed in traditional Indian attire, standing in a palace-like setting. She is holding a plate filled with food, possibly offering it to someone. The woman is wearing a necklace and has a bindi on her forehead, adding to her elegant appearance.\n\nThe room is adorned with several chandeliers, creating a grand atmosphere. There are also a few other people in the scene, one of whom is standing close to the woman, while the others are scattered throughout the room. The overall scene exudes a sense of grandeur and cultural significance."
+  },
+  {
+    "id": "clip_102_caption_embedding_frame_7287.jpg",
+    "caption": "The image features a woman dressed in traditional Indian attire, standing in a room with a gold tray in her hand. She is wearing a beautiful red and purple dress, and she is holding a plate with food on it. The room has a grand and ornate appearance, with a large archway and a chandelier hanging from the ceiling. The woman appears to be the center of attention, possibly presenting the food to an audience or guests."
+  },
+  {
+    "id": "clip_103_caption_embedding_frame_7404.jpg",
+    "caption": "The image depicts a scene in a palace, where two women are standing close to each other. One woman is holding a plate with a cake on it, while the other woman is wearing a red dress. They appear to be engaged in a conversation or sharing a moment together.\n\nThe setting includes a bench in the background, and a clock can be seen hanging on the wall. The overall atmosphere of the scene suggests a celebration or a special occasion."
+  },
+  {
+    "id": "clip_104_caption_embedding_frame_7476.jpg",
+    "caption": "The image features a woman with a nose ring, wearing a white dress, and looking at another woman. The woman with the nose ring is positioned towards the left side of the image, while the other woman is on the right side. The scene appears to be set in a room with a doorway visible in the background."
+  },
+  {
+    "id": "clip_105_caption_embedding_frame_7533.jpg",
+    "caption": "The image features a woman wearing a gold necklace and smiling at the camera. She is standing in front of a doorway, possibly in a palace setting. The woman appears to be the main focus of the scene, with her smile and the gold jewelry drawing attention.\n\nIn the background, there are two other people partially visible, one on the left side and the other on the right side of the image. The room also contains a dining table, which is located towards the right side of the scene."
+  },
+  {
+    "id": "clip_106_caption_embedding_frame_7560.jpg",
+    "caption": "The image features a woman wearing a gold necklace and a purple dress, standing in front of a doorway. She appears to be smiling and looking at the camera. Another person is visible in the background, but their face is not clearly visible.\n\nThe room has a few decorative elements, including a potted plant located near the left side of the image and a vase placed on a surface in the middle of the room. The overall atmosphere of the scene suggests a pleasant and welcoming environment."
+  },
+  {
+    "id": "clip_107_caption_embedding_frame_7677.jpg",
+    "caption": "The image features a beautiful woman wearing a white dress and a nose ring. She is standing in front of a wall with a doorway, possibly in a palace setting. The woman appears to be looking at the camera, capturing the viewer's attention.\n\nIn the background, there are several lights, creating a warm and inviting atmosphere. The combination of the woman's attire, the palace-like setting, and the lights in the background make for an intriguing and captivating scene."
+  },
+  {
+    "id": "clip_108_caption_embedding_frame_7749.jpg",
+    "caption": "The image depicts a beautiful Indian woman dressed in traditional Indian attire, standing in a room with a tray of food in her hands. She appears to be holding a plate with food on it, possibly offering it to someone. Another person can be seen in the background, possibly a guest or a family member.\n\nThe room features a bed in the background, and there are two vases placed in the scene, one near the center and the other towards the right side. The overall atmosphere of the image suggests a warm and welcoming environment."
+  },
+  {
+    "id": "clip_109_caption_embedding_frame_7806.jpg",
+    "caption": "The image depicts a woman dressed in a purple sari, standing in a room with a bed in the background. She is holding a plate with food on it, possibly offering it to someone. Another person is visible in the scene, standing near the woman.\n\nThe room features a dining table, and there are two chairs placed around it. A vase can be seen on the table, adding to the room's decor. The overall atmosphere of the scene suggests a warm and welcoming environment."
+  },
+  {
+    "id": "clip_10_caption_embedding_frame_708.jpg",
+    "caption": "The image features a man with a shaved head, wearing a white shirt and a necklace. He is standing in the rain, with his eyes closed, possibly enjoying the moment or meditating. The man appears to be the main focus of the scene, with the rain and the outdoor setting providing a serene atmosphere."
+  },
+  {
+    "id": "clip_110_caption_embedding_frame_7848.jpg",
+    "caption": "The image depicts a beautiful Indian woman standing in a room, holding a plate of food. She is wearing a red dress and appears to be in a traditional Indian setting. Another woman is standing nearby, possibly observing the food being served.\n\nThe room features a bed in the background, and there are two couches, one on the left side and another on the right side of the room. A dining table is also present in the scene, with a chair placed near it. The overall atmosphere of the room suggests a warm and welcoming environment."
+  },
+  {
+    "id": "clip_111_caption_embedding_frame_7935.jpg",
+    "caption": "The image features a beautiful woman dressed in a purple and gold sari, standing in a room with a lit candle. She is holding a plate with a flower on it, possibly a rose, and appears to be in a traditional Indian setting. The woman is wearing a necklace and is positioned in the center of the scene.\n\nThe room has a vase placed nearby, and a chair can be seen in the background. The overall atmosphere of the image is elegant and serene, with the woman's attire and the lit candle creating a warm and inviting ambiance."
+  },
+  {
+    "id": "clip_112_caption_embedding_frame_8007.jpg",
+    "caption": "The image features a beautiful woman dressed in traditional Indian attire, wearing a red and gold sari. She is holding a plate with a variety of food items, including a cake, and is likely preparing to serve the meal. The woman appears to be in a kitchen setting, surrounded by a few bowls and a clock on the wall. The scene captures the essence of Indian culture and the art of serving delicious food."
+  },
+  {
+    "id": "clip_113_caption_embedding_frame_8079.jpg",
+    "caption": "The image features a woman wearing a nose ring and a gold necklace. She is standing in a dimly lit room, possibly a castle, with a doorway visible in the background. The woman appears to be looking at the camera, capturing the viewer's attention. The room has a vintage atmosphere, and the woman's attire and accessories contribute to the overall aesthetic of the scene."
+  },
+  {
+    "id": "clip_114_caption_embedding_frame_8166.jpg",
+    "caption": "The image depicts a scene from a Bollywood movie, where two women are standing in a room. One woman is holding a plate with food on it, while the other woman is looking at her. The room features a bed in the background, and a chair is placed nearby.\n\nThere are several cakes in the scene, with one placed on the bed and another on the floor. A bowl can also be seen on the floor, adding to the festive atmosphere of the scene. The women appear to be enjoying a special occasion or celebration together."
+  },
+  {
+    "id": "clip_115_caption_embedding_frame_8268.jpg",
+    "caption": "The image features a woman wearing a gold necklace and a nose ring, standing in front of another person. She appears to be dressed in traditional Indian attire, possibly for a special occasion. The woman with the nose ring is looking at the other person, who is also wearing a gold necklace.\n\nThe scene takes place in a room with a couch in the background, and a chair nearby. The woman with the nose ring is positioned closer to the foreground, while the other person is standing further back in the scene."
+  },
+  {
+    "id": "clip_116_caption_embedding_frame_8280.jpg",
+    "caption": "The image features a woman wearing a beautiful red dress, adorned with jewelry. She is looking at the camera, possibly posing for a picture. The woman is wearing a nose ring, adding a unique touch to her appearance.\n\nIn the background, there is another person partially visible, possibly a friend or family member. The scene appears to be set in a room, with a couch in the background and a chair nearby. The woman's elegant attire and the presence of the couch and chair create a cozy and inviting atmosphere."
+  },
+  {
+    "id": "clip_117_caption_embedding_frame_8352.jpg",
+    "caption": "The image features a woman wearing a gold nose ring and a necklace, standing in front of another person. She appears to be looking at the person, possibly engaging in a conversation or observing them. The woman is wearing a red dress, which adds a pop of color to the scene.\n\nIn the background, there is a chair positioned near the right side of the image. The overall atmosphere of the scene suggests a casual, social gathering or event."
+  },
+  {
+    "id": "clip_118_caption_embedding_frame_8424.jpg",
+    "caption": "The image features a woman wearing a gold nose ring and a necklace, standing in front of another person. She appears to be looking at the person with a stern expression. The woman is wearing a red dress, and the scene seems to be set in a dark room.\n\nIn the background, there is a chair positioned near the right side of the image. The overall atmosphere of the scene suggests a confrontation or a tense moment between the two individuals."
+  },
+  {
+    "id": "clip_119_caption_embedding_frame_8556.jpg",
+    "caption": "The image features a woman wearing a nose ring and a gold necklace, standing in front of another person. She appears to be engaged in a conversation or listening to the person next to her. The woman is wearing a red dress, which adds a pop of color to the scene.\n\nIn the background, there is a chair positioned near the center of the image. The overall atmosphere of the scene suggests a casual and relaxed setting, with the woman and the person she is interacting with enjoying each other's company."
+  },
+  {
+    "id": "clip_11_caption_embedding_frame_720.jpg",
+    "caption": "The image features a man with a shaved head, wearing a white and gold outfit. He is standing in the rain, with his mouth open, possibly expressing surprise or excitement. The man is also wearing a necklace, adding to his unique appearance. The scene captures the man's emotions and the rainy weather, creating a captivating atmosphere."
+  },
+  {
+    "id": "clip_120_caption_embedding_frame_8613.jpg",
+    "caption": "The image features a woman wearing a nose ring, standing in front of another woman. The woman with the nose ring appears to be looking at the other woman, who is also wearing a nose ring. Both women are wearing necklaces, adding to the overall aesthetic of the scene.\n\nThe setting appears to be a room with a door visible in the background. The two women are the main focus of the image, with their close proximity and shared interest in nose rings."
+  },
+  {
+    "id": "clip_121_caption_embedding_frame_8640.jpg",
+    "caption": "The image features a woman wearing a nose ring and a necklace, standing in front of another woman. The woman with the nose ring appears to be looking at the other woman, possibly engaging in a conversation or observing her. The scene takes place in a room with a couch in the background."
+  },
+  {
+    "id": "clip_122_caption_embedding_frame_8772.jpg",
+    "caption": "The image features a woman with long hair, wearing a white dress, and looking at another woman. The woman in the white dress appears to be crying, while the other woman looks on with concern. The scene takes place in a room with a couch in the background.\n\nThere are two other people in the room, one standing near the left side of the image and the other on the right side. Additionally, there is a handbag placed on the floor near the center of the room."
+  },
+  {
+    "id": "clip_123_caption_embedding_frame_8799.jpg",
+    "caption": "The image features a woman wearing a traditional Indian outfit, including a nose ring, and a necklace. She is standing in front of another person, who is also wearing a necklace. The woman with the nose ring appears to be looking at the other person, possibly engaging in a conversation or observing something together. The scene captures the cultural and traditional aspects of Indian society."
+  },
+  {
+    "id": "clip_124_caption_embedding_frame_8856.jpg",
+    "caption": "The image features two beautiful women standing close to each other. One woman is wearing a white dress, while the other woman is wearing a gold dress. They appear to be engaged in a conversation or a moment of connection.\n\nThe women are surrounded by a few other people in the scene, but they are the main focus of the image. The setting seems to be a social gathering or a special event, as the women are dressed in elegant attire."
+  },
+  {
+    "id": "clip_125_caption_embedding_frame_8988.jpg",
+    "caption": "The image features a woman wearing a gold nose ring and a necklace, standing in front of another woman. The woman with the nose ring appears to be looking at the other woman, possibly engaging in a conversation or observing her. The scene takes place in a room with a door visible in the background."
+  },
+  {
+    "id": "clip_126_caption_embedding_frame_9015.jpg",
+    "caption": "The image features a woman wearing a traditional Indian outfit, including a bindi on her forehead. She is standing in front of another woman, who is also wearing a bindi. The women are engaged in a conversation, with one of them looking at the other.\n\nThe scene takes place in a room with a couch in the background. The women are positioned close to each other, with one woman standing slightly behind the other. The room appears to be a comfortable and intimate space for their conversation."
+  },
+  {
+    "id": "clip_127_caption_embedding_frame_9087.jpg",
+    "caption": "The image features two women standing in a room, with one woman holding a plate of food. The other woman is wearing a red dress and appears to be looking at the plate of food. The room has a dining table in the background, and there are several bowls placed on the table. The scene seems to be a social gathering or a meal preparation."
+  },
+  {
+    "id": "clip_128_caption_embedding_frame_9174.jpg",
+    "caption": "The image features a woman with a nose ring, standing in front of another woman who is touching her nose. The woman with the nose ring appears to be wearing a white dress, while the other woman is wearing a gold dress. The scene seems to be taking place in a room with a bed visible in the background."
+  },
+  {
+    "id": "clip_129_caption_embedding_frame_9216.jpg",
+    "caption": "The image features a woman wearing a gold necklace and a red nose, possibly a nose ring. She is looking at the camera with a smile on her face. Another person is visible in the background, but their face is not clearly visible. The woman with the nose ring appears to be the main focus of the scene."
+  },
+  {
+    "id": "clip_12_caption_embedding_frame_792.jpg",
+    "caption": "The image depicts a group of people gathered in a courtyard, with some of them standing and others sitting. The people are dressed in traditional Indian clothing, and they appear to be engaged in a conversation or a ceremony. \n\nThere are several umbrellas in the scene, providing shade and protection from the elements. One umbrella is located near the center of the courtyard, while another is positioned towards the right side. A third umbrella can be seen in the background, closer to the right edge of the image.\n\nThe people in the scene are of various heights and positions, creating a lively atmosphere in the courtyard."
+  },
+  {
+    "id": "clip_130_caption_embedding_frame_9288.jpg",
+    "caption": "The image features a woman wearing a gold necklace and a red dress, standing in front of another woman. The woman in the red dress appears to be looking at the other woman, who is wearing a gold necklace. The scene takes place in a room with a couch in the background.\n\nThere are two other people in the room, one standing near the left edge of the image and the other person located on the right side. The room also contains a chair, which is placed near the center of the scene."
+  },
+  {
+    "id": "clip_131_caption_embedding_frame_9360.jpg",
+    "caption": "The image features a woman wearing a nose ring and a necklace, standing in front of a man. She appears to be a beautiful Indian woman with a striking appearance. The man is standing behind her, and they seem to be engaged in a conversation.\n\nThe woman is wearing a necklace, and the man is wearing a tie. The scene appears to be set in a room, with a chair visible in the background. The woman's nose ring adds a unique touch to her overall look."
+  },
+  {
+    "id": "clip_132_caption_embedding_frame_9432.jpg",
+    "caption": "The image features a woman wearing a gold nose ring and a necklace, standing in front of another person. She appears to be looking at the person, possibly engaging in a conversation or observing them. The woman is wearing a red dress, which adds a pop of color to the scene. The other person is situated in the background, partially visible, and seems to be engaged in a separate activity."
+  },
+  {
+    "id": "clip_133_caption_embedding_frame_9564.jpg",
+    "caption": "The image features a woman wearing a nose ring and a necklace, standing in front of another person. She appears to be looking at the person with a piercing gaze. The woman is wearing a purple dress, and the other person is wearing a gray shirt. The scene seems to be set in a room, with a chair visible in the background."
+  },
+  {
+    "id": "clip_134_caption_embedding_frame_9576.jpg",
+    "caption": "The image features a woman wearing a gold nose ring and a purple dress, standing in front of another person. She appears to be looking at the person with a stern expression. The woman is also wearing a necklace, adding to her elegant appearance.\n\nIn the background, there is a chair positioned near the right side of the scene. The overall atmosphere of the image suggests a moment of confrontation or serious discussion between the two individuals."
+  },
+  {
+    "id": "clip_135_caption_embedding_frame_9648.jpg",
+    "caption": "The image features a woman wearing a nose ring and a necklace, standing in front of a man. She appears to be looking at the man, possibly engaging in a conversation or a confrontation. The woman is wearing a purple dress, and the man is wearing a gray shirt. The scene seems to be set in a room, with a chair visible in the background."
+  },
+  {
+    "id": "clip_136_caption_embedding_frame_9735.jpg",
+    "caption": "The image features a woman with a nose piercing, wearing a white dress, and looking at another person. She appears to be in a conversation or engaging in a discussion with the person next to her. The woman's dress is adorned with a necklace, adding a touch of elegance to her appearance. The scene takes place in a room with a couch in the background."
+  },
+  {
+    "id": "clip_137_caption_embedding_frame_9837.jpg",
+    "caption": "The image features two women standing close to each other, with one woman holding a plate of food. They appear to be engaged in a conversation or sharing a meal together. The woman holding the plate is wearing a red dress, while the other woman is dressed in white.\n\nThe plate of food is placed in the center of the scene, and there are two bowls visible in the image, one near the left side and the other near the right side. The women are positioned in such a way that they are both visible, with the woman in the red dress on the left and the woman in the white dress on the right."
+  },
+  {
+    "id": "clip_138_caption_embedding_frame_9864.jpg",
+    "caption": "The image features two women standing close to each other, with one woman holding a plate of food. They appear to be in a room with a dining table in the background. The woman holding the plate is wearing a red dress, while the other woman is dressed in white.\n\nThere are several bowls placed on the dining table, with one near the center of the table and another towards the right side. A spoon can also be seen on the table, closer to the right side. The scene suggests a social gathering or a shared meal between the two women."
+  },
+  {
+    "id": "clip_139_caption_embedding_frame_9951.jpg",
+    "caption": "The image features two beautiful women dressed in traditional Indian attire, standing close to each other. They are both holding plates of food, possibly sharing a meal together. The women are positioned in the center of the scene, with one woman slightly to the left and the other woman slightly to the right.\n\nThe food on the plates consists of a variety of items, including a bowl and a cake. The bowl is placed in the lower-middle part of the image, while the cake is located towards the right side of the scene. The women seem to be enjoying their time together, sharing a delightful moment."
+  },
+  {
+    "id": "clip_13_caption_embedding_frame_879.jpg",
+    "caption": "The image features a bald man with a beard, wearing a necklace and a black bracelet. He appears to be a shirtless man with a stern expression on his face. The man is standing in front of a door, possibly in a room with a window.\n\nThere are two other people in the scene, one located on the left side and the other on the right side of the image. The man with the beard is the main focus of the scene, and his presence adds a sense of intensity to the image."
+  },
+  {
+    "id": "clip_140_caption_embedding_frame_10053.jpg",
+    "caption": "The image features two women in a room, with one woman wearing a gold necklace and the other woman wearing a gold nose ring. They are both holding a plate with food on it, possibly sharing a meal together. The woman with the gold nose ring is feeding the other woman, who is seated in front of her.\n\nThe room has a dining table in the background, and there are two cakes visible on the table. One cake is placed closer to the left side of the table, while the other cake is situated more towards the right side. The scene appears to be a casual and intimate gathering between the two women."
+  },
+  {
+    "id": "clip_141_caption_embedding_frame_10080.jpg",
+    "caption": "The image features two women standing close to each other, with one of them wearing a gold nose ring. They are engaged in a conversation, possibly discussing the gold nose ring. The woman with the nose ring is wearing a purple dress, while the other woman is dressed in white.\n\nIn the scene, there is a dining table with a bowl placed on it. A cake can be seen on the table as well, adding to the festive atmosphere. The women are positioned near the table, with one of them holding a cell phone."
+  },
+  {
+    "id": "clip_142_caption_embedding_frame_10167.jpg",
+    "caption": "The image features two women standing close to each other, with one of them wearing a gold necklace. They are both looking at a plate of food, possibly a banquet or a feast. The woman wearing the gold necklace is also wearing a bindi, which is a traditional Indian accessory.\n\nThe scene appears to be set in a dining area, with a dining table visible in the background. The plate of food is placed on the table, and there are a few more bowls and a spoon nearby. The overall atmosphere of the image suggests a celebration or a special occasion."
+  },
+  {
+    "id": "clip_143_caption_embedding_frame_10239.jpg",
+    "caption": "The image features two women standing close to each other, with one woman holding a plate of food. They appear to be engaged in a conversation or sharing a meal together. The plate of food is placed in the center of the scene, and the women are positioned on either side of it.\n\nThe setting seems to be a dining area, with a dining table visible in the background. The women are wearing traditional Indian clothing, which adds to the cultural atmosphere of the scene."
+  },
+  {
+    "id": "clip_144_caption_embedding_frame_10296.jpg",
+    "caption": "The image features a woman with a nose piercing, wearing a white dress, and looking at another woman. The woman with the nose piercing appears to be the main focus of the scene. The other woman is positioned to the right of the main woman, and they seem to be engaged in a conversation.\n\nIn the background, there is a chair placed near the right edge of the image. The overall atmosphere of the scene suggests a casual and intimate interaction between the two women."
+  },
+  {
+    "id": "clip_145_caption_embedding_frame_10428.jpg",
+    "caption": "The image features a woman with a nose piercing, wearing a white dress, and looking at another woman. The woman with the nose piercing appears to be the main focus of the scene. The other woman is positioned to the right of the main woman, and they seem to be engaged in a conversation.\n\nIn the background, there is a chair placed near the left side of the image. The overall atmosphere of the scene suggests a casual and intimate interaction between the two women."
+  },
+  {
+    "id": "clip_146_caption_embedding_frame_10455.jpg",
+    "caption": "The image features a woman with a nose piercing, wearing a white dress, and looking at another woman. The woman with the nose piercing appears to be the main focus of the scene. The other woman is positioned to the right of the main woman, and they seem to be engaged in a conversation.\n\nIn the background, there is a chair placed near the right edge of the image. The overall atmosphere of the scene suggests a casual and intimate interaction between the two women."
+  },
+  {
+    "id": "clip_147_caption_embedding_frame_10527.jpg",
+    "caption": "The image features a woman with a nose piercing, wearing a white dress, and looking at another woman. The woman with the nose piercing appears to be the main focus of the scene. The other woman is positioned to the right of the main woman, and they seem to be engaged in a conversation.\n\nThe setting appears to be a room with a couch in the background, and a chair nearby. The room also has a dining table, and a bowl is placed on it. The overall atmosphere of the image suggests a casual and intimate gathering between the two women."
+  },
+  {
+    "id": "clip_148_caption_embedding_frame_10614.jpg",
+    "caption": "The image features a beautiful Indian woman wearing a nose ring and a bindi. She is wearing a gold necklace and is adorned with a red flower in her hair. The woman appears to be smiling and looking directly at the camera.\n\nIn the background, there is a potted plant located on the left side of the image. The woman's attire and accessories suggest a traditional Indian setting, possibly a wedding or a special occasion."
+  },
+  {
+    "id": "clip_149_caption_embedding_frame_10656.jpg",
+    "caption": "The image features a woman with a nose ring, wearing a white dress. She is looking at another person, possibly a man, who is also wearing a white dress. The woman with the nose ring appears to be the main focus of the scene.\n\nThe setting appears to be a room with a couch in the background, and a chair nearby. The woman with the nose ring is standing close to the couch, while the other person is positioned further back in the room."
+  },
+  {
+    "id": "clip_14_caption_embedding_frame_936.jpg",
+    "caption": "The image features a bald man with a beard and mustache, wearing a necklace and a black bracelet. He appears to be a shirtless man with a piercing in his ear. The man is standing in front of a door, possibly in a rain-soaked environment.\n\nThe scene also includes a few other people, one of whom is standing behind the main subject, and another person is visible in the background. The overall atmosphere of the image suggests a sense of mystery and intrigue."
+  },
+  {
+    "id": "clip_150_caption_embedding_frame_10773.jpg",
+    "caption": "The image features a beautiful woman with a pierced nose, wearing a nose ring. She appears to be in a dramatic or intense moment, possibly in a movie scene. The woman is looking up, possibly at the camera or towards the sky.\n\nIn the background, there is a person partially visible on the left side of the image. The overall atmosphere of the scene is intense and captivating."
+  },
+  {
+    "id": "clip_151_caption_embedding_frame_10800.jpg",
+    "caption": "The image features a beautiful woman with a nose piercing, wearing a nose ring. She is looking at the camera with a piercing gaze. The woman is wearing a necklace, which adds to her elegant appearance. The scene appears to be set in a dark room, with the woman being the main focus of the image."
+  },
+  {
+    "id": "clip_152_caption_embedding_frame_10917.jpg",
+    "caption": "The image features a beautiful Indian woman with a nose piercing, wearing a nose ring. She is looking at the camera with a piercing gaze. The woman is wearing a necklace, which adds to her elegant appearance. The scene appears to be set in a dark room, with the woman being the main focus of the image."
+  },
+  {
+    "id": "clip_153_caption_embedding_frame_10989.jpg",
+    "caption": "The image features a beautiful woman wearing a nose ring and a gold necklace. She is looking directly at the camera, capturing the viewer's attention. The woman is adorned with jewelry, including a gold necklace and a nose ring, which adds to her elegant appearance. The scene is set against a backdrop of a wall, creating a striking contrast between the woman and her surroundings."
+  },
+  {
+    "id": "clip_154_caption_embedding_frame_11016.jpg",
+    "caption": "The image features a beautiful young woman with a nose piercing, wearing a nose ring. She is looking at the camera with a sad expression on her face. The woman is wearing a white dress, and her piercing is the main focus of the scene. The image captures her emotions and the unique accessory she has chosen to wear."
+  },
+  {
+    "id": "clip_155_caption_embedding_frame_11118.jpg",
+    "caption": "The image features two beautiful women dressed in traditional Indian attire, standing close to each other. One woman is holding a plate with a tray of food on it, while the other woman is holding a plate with a tray of food as well. The food appears to be a delicious meal, and the women seem to be enjoying their time together.\n\nThe women are wearing jewelry, with one woman wearing a necklace and the other wearing a bracelet. The scene appears to be set in a room with a dining table in the background."
+  },
+  {
+    "id": "clip_156_caption_embedding_frame_11175.jpg",
+    "caption": "The image features a beautiful woman wearing traditional Indian jewelry, including a nose ring. She is looking down, possibly at her nose ring or her hands. The woman is wearing a purple dress, which complements her overall appearance. The scene appears to be set in a room, with a wall visible in the background."
+  },
+  {
+    "id": "clip_157_caption_embedding_frame_11247.jpg",
+    "caption": "The image features a beautiful woman with a nose ring, wearing a white dress. She is looking down, possibly at the camera or her surroundings. The woman's nose is adorned with a nose ring, which adds a unique and stylish touch to her appearance. The scene appears to be a close-up of the woman, emphasizing her features and the nose ring."
+  },
+  {
+    "id": "clip_158_caption_embedding_frame_11334.jpg",
+    "caption": "The image features a woman wearing a nose ring and a gold necklace. She is looking directly at the camera, capturing the viewer's attention. The woman is also wearing a bindi, which is a decorative piece worn on the forehead.\n\nIn the background, there is a potted plant placed on the left side of the scene. The woman's outfit and accessories suggest a cultural or traditional setting."
+  },
+  {
+    "id": "clip_159_caption_embedding_frame_11406.jpg",
+    "caption": "The image depicts two women dressed in traditional Indian attire, walking through a palace-like setting. One woman is wearing a purple dress, while the other is wearing a red dress. They are both carrying handbags as they stroll through the room.\n\nThe room features a bed in the background, and a chair is placed nearby. The overall atmosphere of the scene suggests a sense of elegance and sophistication."
+  },
+  {
+    "id": "clip_15_caption_embedding_frame_1068.jpg",
+    "caption": "The image features a man with a shaved head, wearing a white shirt and earrings. He appears to be a young man with a piercing gaze. The man is standing in the rain, with water dripping down his face. The scene is set in a dark environment, possibly a forest or an outdoor location."
+  },
+  {
+    "id": "clip_160_caption_embedding_frame_11448.jpg",
+    "caption": "The image features a beautiful woman dressed in a white gown, standing in a room with a lit candle on a plate. She is holding the plate with the candle on it, possibly preparing for a special occasion or celebration. The room has a cozy atmosphere, with a bed visible in the background. The woman appears to be the main focus of the scene, and her elegant attire adds a touch of sophistication to the setting."
+  },
+  {
+    "id": "clip_161_caption_embedding_frame_11535.jpg",
+    "caption": "The image features a beautiful woman dressed in a white gown, standing in a room with a lit candle on a plate. She is holding the plate with the candle on it, possibly celebrating a special occasion. The room has a vintage atmosphere, with a couch in the background and a chair nearby. The woman appears to be the main focus of the scene, as she gracefully holds the plate with the candle."
+  },
+  {
+    "id": "clip_162_caption_embedding_frame_11622.jpg",
+    "caption": "The image features a woman standing in front of a wall adorned with numerous lit candles. The candles are arranged in various shapes and sizes, creating a visually appealing display. The woman appears to be observing the candles, possibly admiring their beauty or contemplating their purpose. The scene is set in a dimly lit environment, which further emphasizes the glowing candles."
+  },
+  {
+    "id": "clip_163_caption_embedding_frame_11679.jpg",
+    "caption": "The image features a woman wearing a red dress, standing in front of a wall with several lit candles. The candles are placed in various positions, creating a warm and inviting atmosphere. The woman appears to be looking at the candles, possibly admiring their glow or contemplating something. The scene is set in a room with a stone wall, adding a sense of depth and texture to the image."
+  },
+  {
+    "id": "clip_164_caption_embedding_frame_11736.jpg",
+    "caption": "The image features a beautiful woman wearing a red dress, standing in front of a wall with lit candles. She appears to be looking at the camera, possibly posing for a picture. The woman is adorned with jewelry, adding to her elegant appearance.\n\nThere are several candles placed around the room, with some closer to the woman and others further away. The overall atmosphere of the scene is intimate and serene."
+  },
+  {
+    "id": "clip_165_caption_embedding_frame_11853.jpg",
+    "caption": "The image depicts a lively scene of a group of people, predominantly women, dancing and celebrating together. They are standing in a circle, with some of them holding candles, adding a festive atmosphere to the gathering. The dancers are wearing colorful outfits, and their expressions and body language convey a sense of joy and excitement.\n\nThe dancers are spread out across the scene, with some standing closer to the foreground and others further back. The candles are placed at various heights and positions, creating a visually appealing and warm ambiance. The overall atmosphere of the scene is one of happiness and camaraderie."
+  },
+  {
+    "id": "clip_166_caption_embedding_frame_11925.jpg",
+    "caption": "The image depicts a lively scene of a group of women dancing together in a room. They are all dressed in traditional Indian attire, with some of them wearing saris. The women are spread out across the room, with some standing closer to the foreground and others further back.\n\nThere are several handbags placed around the room, possibly belonging to the women. The atmosphere appears to be joyful and celebratory, as the women engage in their dance."
+  },
+  {
+    "id": "clip_167_caption_embedding_frame_11997.jpg",
+    "caption": "The image depicts a lively scene of a group of women dancing together in a room. They are all dressed in traditional Indian attire, with some of them wearing saris. The women are spread out across the room, with some standing closer to the foreground and others further back.\n\nThe dancers are engaged in various poses and movements, creating a vibrant and energetic atmosphere. The room is filled with a sense of joy and camaraderie as the women enjoy their time together."
+  },
+  {
+    "id": "clip_168_caption_embedding_frame_12024.jpg",
+    "caption": "The image features a group of women dressed in traditional Indian attire, standing together and clapping. They are all wearing saris, which are long, flowing garments. The women are spread out across the scene, with some standing closer to the front and others further back.\n\nIn addition to the women, there are a few other people in the scene, including a man standing near the center and another person on the right side. The overall atmosphere appears to be joyful and celebratory."
+  },
+  {
+    "id": "clip_169_caption_embedding_frame_12141.jpg",
+    "caption": "The image depicts a beautiful woman dressed in a red and black outfit, walking down a staircase in a large, old building. She appears to be the main focus of the scene. Another woman can be seen in the background, standing near the stairs.\n\nThe building features a balcony and a few chairs placed around the area. There are also two handbags visible in the scene, one near the main woman and the other closer to the background woman. The overall atmosphere of the image suggests a sense of elegance and sophistication."
+  },
+  {
+    "id": "clip_16_caption_embedding_frame_1095.jpg",
+    "caption": "The image features a bald man with a beard, wearing a necklace and a black bracelet. He appears to be a shirtless man with a piercing in his ear. The man is looking directly at the camera, possibly posing for a picture.\n\nIn the background, there is a doorway visible, and a clock can be seen hanging on the wall. The overall atmosphere of the scene suggests a casual and relaxed environment."
+  },
+  {
+    "id": "clip_170_caption_embedding_frame_12228.jpg",
+    "caption": "The image features a beautiful woman dressed in a red and white sari, standing in front of a large building. She appears to be posing for a picture, possibly for a movie or a special event. The woman is wearing a necklace, adding to her elegant appearance.\n\nThe scene also includes a few other people, but they are not the main focus of the image. There are two handbags visible in the scene, one near the center and the other towards the right side. Additionally, there are two candles placed in the background, adding a touch of ambiance to the setting."
+  },
+  {
+    "id": "clip_171_caption_embedding_frame_12240.jpg",
+    "caption": "The image features a beautiful woman dressed in a red and gold sari, standing in front of a building. She appears to be posing for a picture, possibly for a movie or a special event. The woman is wearing a necklace, adding to her elegant appearance.\n\nIn the background, there are two other people, one on the left side and the other on the right side of the image. Additionally, there are two fireplaces, one on the left side and the other on the right side, which might be part of the building's interior."
+  },
+  {
+    "id": "clip_172_caption_embedding_frame_12342.jpg",
+    "caption": "The image features a large group of people, predominantly women, dressed in traditional Indian attire. They are standing in a circle, with some of them holding drums. The women are wearing saris, which are long, flowing garments that are a common attire in Indian culture.\n\nThe group is spread out across the scene, with some women standing closer to the foreground and others further back. The women are all focused on the same direction, possibly participating in a cultural event or performance."
+  },
+  {
+    "id": "clip_173_caption_embedding_frame_12399.jpg",
+    "caption": "The image depicts a lively scene of a woman in a purple sari dancing in front of a large group of people. She is the center of attention, as she gracefully moves her arms and legs. The audience consists of various individuals, some standing closer to the woman and others further away.\n\nIn the background, there are two fire torches, adding to the festive atmosphere. The overall setting appears to be a celebration or a cultural event, with the woman in the purple sari being the main attraction."
+  },
+  {
+    "id": "clip_174_caption_embedding_frame_12471.jpg",
+    "caption": "The image depicts a group of women dressed in traditional Indian attire, performing a dance in front of a crowd. They are wearing colorful outfits and are accompanied by a drum, which adds to the lively atmosphere of the scene. The women are spread out across the stage, with some standing closer to the front and others further back.\n\nIn addition to the main group of dancers, there are several other people in the scene, possibly watching the performance or waiting for their turn to join the dance. The overall setting appears to be a celebration or a cultural event, with the dancers showcasing their talents and the audience enjoying the spectacle."
+  },
+  {
+    "id": "clip_175_caption_embedding_frame_12528.jpg",
+    "caption": "The image features two women standing close to each other, with one woman wearing a gold necklace and the other woman wearing a red dress. They appear to be engaged in a conversation or interacting with each other.\n\nIn the background, there are several other people, some of whom are wearing ties. The scene seems to be a social gathering or event where people are mingling and engaging in conversations."
+  },
+  {
+    "id": "clip_176_caption_embedding_frame_12615.jpg",
+    "caption": "The image features two women wearing traditional Indian attire, with one woman wearing a nose ring. They are standing close to each other, possibly engaging in a conversation or sharing a moment. The women are wearing gold jewelry, which adds to the elegance of their appearance.\n\nIn the background, there is a chair placed near the right side of the scene. The overall atmosphere of the image suggests a cultural or traditional setting."
+  },
+  {
+    "id": "clip_177_caption_embedding_frame_12687.jpg",
+    "caption": "The image features a woman wearing a red dress, standing in a room with a man. She is holding a cell phone to her ear, possibly engaged in a conversation. The woman is also wearing a necklace, adding to her elegant appearance.\n\nThe room has a staircase in the background, and there are two other people in the scene, one standing near the left side of the image and the other on the right side. The overall atmosphere of the scene suggests a social gathering or a casual meeting."
+  },
+  {
+    "id": "clip_178_caption_embedding_frame_12789.jpg",
+    "caption": "The image depicts a lively scene of a group of people, predominantly women, dancing together in a courtyard. They are wearing traditional Indian clothing, with some of them dressed in saris. The dancers are spread out across the courtyard, with some closer to the foreground and others further back.\n\nThere are several handbags placed around the courtyard, likely belonging to the dancers. The atmosphere is vibrant and energetic, as the group of women enjoy their time dancing together."
+  },
+  {
+    "id": "clip_179_caption_embedding_frame_12816.jpg",
+    "caption": "The image depicts a lively scene of a group of women dancing together in a courtyard. They are wearing traditional Indian clothing, with some of them wearing saris. The women are spread out across the courtyard, with some standing closer to the foreground and others further back.\n\nIn addition to the dancers, there are several handbags placed around the courtyard, likely belonging to the women. The atmosphere appears to be joyful and celebratory, as the women enjoy their time dancing together."
+  },
+  {
+    "id": "clip_17_caption_embedding_frame_1197.jpg",
+    "caption": "The image depicts a group of people gathered in front of a building, possibly a palace or a temple. Among them, a man is lying on the ground, possibly dead or unconscious. The people surrounding him appear to be mourning or discussing the situation.\n\nThere are several individuals in the scene, with some standing closer to the man lying on the ground, while others are positioned further away. The gathering seems to be a mix of people, with some standing closer to the building and others spread out across the scene."
+  },
+  {
+    "id": "clip_180_caption_embedding_frame_12933.jpg",
+    "caption": "The image depicts a lively scene of a group of women dancing together in a courtyard. They are dressed in traditional Indian attire, with some of them wearing saris. The women are spread out across the courtyard, with some standing closer to the foreground and others further back.\n\nIn addition to the dancers, there are several handbags placed around the courtyard, likely belonging to the women. The atmosphere is vibrant and energetic, as the women enjoy their time dancing together."
+  },
+  {
+    "id": "clip_181_caption_embedding_frame_12960.jpg",
+    "caption": "The image features a woman dressed in a purple outfit, dancing in a large group of people. She is the center of attention, as she appears to be the main dancer in the scene. The other people in the group are also engaged in dancing, creating a lively atmosphere.\n\nThere are several other individuals in the scene, some of them wearing traditional Indian clothing. The group is spread out across the scene, with some people standing closer to the foreground and others further in the background. The overall setting appears to be a celebration or a gathering where people are enjoying themselves through dance."
+  },
+  {
+    "id": "clip_182_caption_embedding_frame_13047.jpg",
+    "caption": "The image depicts a lively scene of a group of people, including a woman, dancing in a courtyard. The woman is wearing a purple dress and is the center of attention as she dances with her hands raised. The other dancers are scattered throughout the scene, with some closer to the woman and others further away.\n\nThere are several people in the background, and a few of them are holding torches, adding to the festive atmosphere. The dancers are enjoying themselves, and the overall mood of the scene is energetic and joyful."
+  },
+  {
+    "id": "clip_18_caption_embedding_frame_1254.jpg",
+    "caption": "The image depicts a group of people gathered in front of a building, possibly a temple or a palace. Among them, a man is lying on the ground, possibly dead or in a state of distress. The people surrounding him appear to be mourning or discussing the situation.\n\nThere are several individuals in the scene, with some standing closer to the man lying on the ground, while others are positioned further away. The gathering seems to be a mix of people, with some standing closer to the building and others spread out across the scene."
+  },
+  {
+    "id": "clip_19_caption_embedding_frame_1341.jpg",
+    "caption": "The image depicts a group of people gathered around a man lying on the ground. The man appears to be dead, and the people are standing around him, possibly discussing the situation or mourning the loss. The scene takes place in front of a building, possibly a temple or a palace.\n\nThere are several people in the scene, with some standing closer to the man on the ground and others further away. A few individuals are wearing ties, which can be seen on their clothing. The overall atmosphere of the image is somber and reflective of a moment of loss and grief."
+  },
+  {
+    "id": "clip_1_caption_embedding_frame_0.jpg",
+    "caption": "The image features a man with a beard and mustache, wearing a necklace and a headband. He appears to be in a state of distress or discomfort, possibly due to the headband or the necklace. The man is looking down, and his eyes are open wide, giving the impression of a strong reaction to the situation.\n\nIn the background, there is another person partially visible, but their role in the scene is unclear. The main focus of the image is the man with the beard and mustache, who seems to be the center of attention."
+  },
+  {
+    "id": "clip_20_caption_embedding_frame_1383.jpg",
+    "caption": "The image depicts a group of men standing in front of a building, possibly a temple or a palace. One of the men is lying on the ground, possibly dead or injured. The other men are gathered around the fallen man, with some of them appearing to be discussing or reacting to the situation.\n\nThe scene is set in a courtyard, and the men are dressed in traditional attire, which suggests that the event might be a cultural or religious ceremony. The atmosphere appears to be solemn, with the men focused on the fallen man and the situation at hand."
+  },
+  {
+    "id": "clip_21_caption_embedding_frame_1470.jpg",
+    "caption": "The image features a woman wearing a white headscarf, standing in front of a building. She appears to be looking at the camera, possibly posing for a picture. The woman's face is partially covered by the headscarf, giving her a modest and elegant appearance."
+  },
+  {
+    "id": "clip_22_caption_embedding_frame_1512.jpg",
+    "caption": "The image features a man with a shaved head, wearing a necklace and earrings. He is standing in the rain, with water dripping down his face. The man appears to be looking at the camera, capturing the moment. The scene is set in a dark environment, adding to the dramatic atmosphere."
+  },
+  {
+    "id": "clip_23_caption_embedding_frame_1584.jpg",
+    "caption": "The image features a man standing in the rain, wearing a long white robe. He appears to be a young man with a beard, and he is looking at the camera. The man is also wearing a gold necklace. The scene is set in a courtyard, with a building visible in the background. The man seems to be enjoying the rain, as he stands in the downpour."
+  },
+  {
+    "id": "clip_24_caption_embedding_frame_1686.jpg",
+    "caption": "The image features two men standing in the rain, facing each other. One of the men is wearing a white robe, while the other is dressed in a white and gold outfit. They appear to be having a conversation or engaging in a friendly interaction.\n\nThe scene is set in a rainy environment, with rain falling around them. The men are positioned close to each other, with one man standing slightly behind the other. The overall atmosphere of the image is one of connection and camaraderie despite the unfavorable weather conditions."
+  },
+  {
+    "id": "clip_25_caption_embedding_frame_1758.jpg",
+    "caption": "The image depicts a group of people standing in the rain, with one woman wearing a white veil and another woman wearing a white headscarf. They are all looking at the camera, possibly posing for a picture. The woman with the white veil is positioned in the center of the scene, while the woman with the white headscarf is standing to her right.\n\nThere are two other people in the scene, one on the left side and another on the right side. The rain is falling, creating a moist atmosphere. The group appears to be enjoying the moment despite the wet conditions."
+  },
+  {
+    "id": "clip_26_caption_embedding_frame_1800.jpg",
+    "caption": "The image features a man with a beard and mustache, wearing a white shirt and earrings. He is standing in the rain, with water dripping down his face. The man appears to be looking at someone, possibly a woman, who is also present in the scene.\n\nThe scene takes place in a room with a dining table in the background. There are two chairs placed around the table, one closer to the man and the other further away. The overall atmosphere of the image is one of a rainy day, with the man and woman sharing a moment despite the weather."
+  },
+  {
+    "id": "clip_27_caption_embedding_frame_1872.jpg",
+    "caption": "The image features a man with a beard and mustache, wearing a necklace and earrings. He is standing in the rain, looking at a woman who is also standing in the rain. The woman appears to be wearing a veil. The scene captures the intensity of the moment as the man and woman face each other in the rain."
+  },
+  {
+    "id": "clip_28_caption_embedding_frame_1974.jpg",
+    "caption": "The image features a man wearing a purple turban, sitting on a couch. He is wearing a red and gold outfit, which includes a red hat. The man appears to be looking at something, possibly a TV or a person.\n\nThe room has a dining table in the background, and there are two chairs placed around it. Additionally, there are two other people in the scene, one standing near the left side of the image and the other person standing near the right side."
+  },
+  {
+    "id": "clip_29_caption_embedding_frame_2061.jpg",
+    "caption": "The image features a person wearing a red hat, sitting on a chair in a room with a red couch. The room is adorned with several chandeliers, creating a luxurious atmosphere. The person is positioned in the center of the room, surrounded by the elegant lighting fixtures. The room appears to be a part of a larger space, possibly a hotel or a sophisticated residence."
+  },
+  {
+    "id": "clip_2_caption_embedding_frame_132.jpg",
+    "caption": "The image depicts a scene of a man lying on the ground, possibly dead, with a group of people standing around him. The people are gathered in a courtyard, and some of them are holding umbrellas to shield themselves from the rain. The courtyard is surrounded by buildings, and the atmosphere appears to be somber.\n\nThere are several people in the scene, with some standing closer to the man lying on the ground, while others are positioned further away. The umbrellas are scattered throughout the scene, with some held by people standing closer to the man and others held by people standing further away."
+  },
+  {
+    "id": "clip_30_caption_embedding_frame_2118.jpg",
+    "caption": "The image depicts a lavishly decorated room with a large chandelier hanging from the ceiling. There are several people in the room, with one person sitting on a chair and another person standing nearby. The room is filled with various chairs, some of which are placed closer to the chandelier, while others are positioned further away.\n\nIn addition to the chairs, there are multiple wine glasses scattered throughout the room, adding to the elegant atmosphere. The overall setting appears to be a sophisticated gathering or event."
+  },
+  {
+    "id": "clip_31_caption_embedding_frame_2205.jpg",
+    "caption": "The image depicts a group of people gathered in a room with a large chandelier hanging above them. There are at least five people in the scene, with some standing closer to the chandelier and others further away. One of the individuals is wearing a turban, which adds a unique touch to the scene.\n\nThe room features a bed with a red blanket, and a chair is also visible in the background. The overall atmosphere of the scene suggests a social gathering or a celebration."
+  },
+  {
+    "id": "clip_32_caption_embedding_frame_2277.jpg",
+    "caption": "The image depicts a group of men dressed in traditional Indian garb, standing in a room with a large chandelier hanging from the ceiling. The men are gathered around a chair, possibly discussing or engaging in a ceremony.\n\nThere are several chandeliers in the room, with one being the main focus and others placed around the area. The men are wearing various types of clothing, including turbans, which are a common accessory in Indian culture. The room appears to be a formal setting, with the men dressed in their finest attire."
+  },
+  {
+    "id": "clip_33_caption_embedding_frame_2349.jpg",
+    "caption": "The image features a man wearing a red turban and a gold crown, sitting in a room. He is wearing a gold necklace and has a beard. The man appears to be looking at the camera, possibly posing for a picture.\n\nThe room has a dining table in the background, and there are two chairs placed around it. Additionally, there are two bowls on the table, one closer to the man and the other further away."
+  },
+  {
+    "id": "clip_34_caption_embedding_frame_2406.jpg",
+    "caption": "The image features a woman wearing a white headscarf, standing in a dark room. She appears to be looking at the camera, possibly posing for a picture. The room has a few books scattered around, with some placed on the floor and others on a surface. The overall atmosphere of the scene is somewhat mysterious and intriguing."
+  },
+  {
+    "id": "clip_35_caption_embedding_frame_2448.jpg",
+    "caption": "The image features a woman wearing a white headscarf, standing in a dark room. She appears to be looking at something, possibly a book or a piece of paper. The room has a few books scattered around, with one on the left side, another in the middle, and the third one on the right side. The woman's attire and the presence of books suggest that she might be in a library or a study area."
+  },
+  {
+    "id": "clip_36_caption_embedding_frame_2520.jpg",
+    "caption": "The image features a person standing in front of a large, ornate chandelier. The chandelier is adorned with numerous crystal pieces, creating a stunning and elegant display. The person appears to be admiring the chandelier, possibly considering its design or appreciating its craftsmanship. The scene is set in a room with a dining table visible in the background."
+  },
+  {
+    "id": "clip_37_caption_embedding_frame_2592.jpg",
+    "caption": "The image depicts a group of people gathered in a room with a large chandelier hanging from the ceiling. There are at least five people in the scene, with some standing closer to the chandelier and others further away. One person is sitting on a bed, while another is kneeling on the floor.\n\nThe room is adorned with several chandeliers, creating a luxurious and elegant atmosphere. The people in the room appear to be engaged in conversation or enjoying each other's company."
+  },
+  {
+    "id": "clip_38_caption_embedding_frame_2679.jpg",
+    "caption": "The image features a man wearing a red turban and a gold crown, standing in front of a chandelier. He appears to be dressed in Indian attire, possibly as a costume or for a special occasion. The man is pointing his finger, drawing attention to something in the scene.\n\nThe chandelier is located in the upper part of the image, and there are several other people in the background, although they are not the main focus of the scene. The man in the foreground is the center of attention, with his unique attire and the gesture he is making."
+  },
+  {
+    "id": "clip_39_caption_embedding_frame_2781.jpg",
+    "caption": "The image features a man dressed in a red outfit, possibly a costume or a traditional Indian attire, standing on a stage or a platform. He is wearing a turban and appears to be performing or participating in a cultural event. The man is positioned in the center of the scene, drawing attention to his outfit and presence.\n\nThe setting is adorned with several chandeliers hanging from the ceiling, creating an elegant atmosphere. There are also two vases placed in the room, one on the left side and the other on the right side, adding to the overall decoration of the space."
+  },
+  {
+    "id": "clip_3_caption_embedding_frame_174.jpg",
+    "caption": "The image depicts a group of people gathered in a courtyard, possibly for a ceremony or event. There are several men standing in the courtyard, with some of them holding umbrellas to shield themselves from the rain. The people are spread out across the scene, with some standing closer to the foreground and others further back.\n\nIn the courtyard, there is a person lying on the ground, possibly as part of the ceremony or event. The scene appears to be a mix of a formal gathering and a rainy day, with the people trying to adapt to the weather conditions."
+  },
+  {
+    "id": "clip_40_caption_embedding_frame_2853.jpg",
+    "caption": "The image depicts two men dressed in traditional Indian garb, standing close to each other and engaging in a conversation. One man is wearing a red turban, while the other is wearing a red hat. They appear to be having a discussion or sharing a moment of connection.\n\nThe scene takes place in a room with a dining table in the background. There are several wine glasses placed on the table, suggesting a social gathering or a celebration. The room also features a couch and a chair, providing a comfortable setting for the men to converse."
+  },
+  {
+    "id": "clip_41_caption_embedding_frame_2910.jpg",
+    "caption": "The image depicts a scene from a movie or play, where two men are dressed in costumes and engaging in a conversation. One man is wearing a red hat, while the other is wearing a red turban. They appear to be having a discussion, possibly about their roles in the performance.\n\nThe setting includes a dining table with several wine glasses placed on it. The table is located in the background, and the two men are standing in the foreground, facing each other. The overall atmosphere suggests a dramatic and engaging performance."
+  },
+  {
+    "id": "clip_42_caption_embedding_frame_2967.jpg",
+    "caption": "The image features a man wearing a red turban and a red outfit, standing in front of a curtain. He appears to be looking at something or someone behind the curtain. The man is wearing a beard and has a distinctive appearance.\n\nIn the scene, there are several other people present, but they are not the main focus. The main focus is the man in the red turban and outfit, who seems to be the center of attention."
+  },
+  {
+    "id": "clip_43_caption_embedding_frame_3024.jpg",
+    "caption": "The image features two men dressed in traditional Indian garb, standing close to each other and engaging in conversation. One of the men is wearing a turban, which is a common accessory in Indian culture. They appear to be having a friendly discussion, possibly sharing stories or experiences.\n\nIn the background, there are two bottles, one located near the left side of the image and the other towards the right side. Additionally, there is a clock visible in the upper right corner of the scene."
+  },
+  {
+    "id": "clip_44_caption_embedding_frame_3096.jpg",
+    "caption": "The image features two men wearing colorful hats, standing close to each other and engaging in a conversation. One of the men is wearing a red hat, while the other has a pink hat. They appear to be having a friendly discussion, possibly in a room with a dining table in the background.\n\nThere are also two cups placed on the dining table, one closer to the left side and the other near the center. The scene seems to be set in a casual and relaxed environment."
+  },
+  {
+    "id": "clip_45_caption_embedding_frame_3228.jpg",
+    "caption": "The image features a person standing in a room with a red and white checkered wallpaper. The room is adorned with several chandeliers, creating a luxurious and elegant atmosphere. The person appears to be wearing a costume, possibly for a special event or performance.\n\nIn addition to the chandeliers, there are multiple vases placed throughout the room, adding to the room's decorative elements. The person is positioned near the center of the room, drawing attention to their presence and the overall setting."
+  },
+  {
+    "id": "clip_46_caption_embedding_frame_3240.jpg",
+    "caption": "The image features a large, ornate bedroom with a red and white color scheme. The room is adorned with two large chandeliers hanging from the ceiling, adding a touch of elegance to the space. The bed is positioned underneath the chandeliers, creating a focal point in the room.\n\nIn addition to the bed, there are two chairs placed in the room, one near the left side and the other near the right side. A person can be seen in the room, possibly admiring the beautifully decorated space."
+  },
+  {
+    "id": "clip_47_caption_embedding_frame_3312.jpg",
+    "caption": "The image features two men dressed in costumes, with one of them wearing a red hat. They are standing close to each other, possibly engaging in a conversation or a performance. The man in the red hat appears to be wearing a turban, adding to the unique and eye-catching nature of his outfit.\n\nIn the background, there are several decorative items, including a vase and a clock. The vase is located on the left side of the image, while the clock is positioned on the right side. These items contribute to the overall atmosphere and setting of the scene."
+  },
+  {
+    "id": "clip_48_caption_embedding_frame_3414.jpg",
+    "caption": "The image features a man wearing a red turban, standing in front of a large chandelier. He appears to be looking up at the chandelier, possibly admiring its design or considering the lighting. The chandelier is adorned with numerous crystal pieces, creating a striking visual effect. The man's attire and the chandelier's intricate details suggest that the scene might be set in a luxurious or ornate environment."
+  },
+  {
+    "id": "clip_49_caption_embedding_frame_3471.jpg",
+    "caption": "The image depicts a group of people dressed in traditional Indian garb, standing in a room with a chandelier hanging above them. There are at least five people in the scene, with some of them wearing turbans. The people are engaged in conversation, possibly discussing a cultural event or gathering.\n\nThe room features a dining table in the background, and a chair is placed nearby. The chandelier adds a touch of elegance to the setting, creating a warm and inviting atmosphere."
+  },
+  {
+    "id": "clip_4_caption_embedding_frame_216.jpg",
+    "caption": "The image depicts a group of people gathered in a courtyard, possibly for a funeral or a ceremony. There are several men standing in the courtyard, with some of them holding umbrellas to shield themselves from the rain. The people are spread out across the scene, with some standing closer to the foreground and others further back.\n\nIn the courtyard, there are a few chairs placed around the area, and a dining table can be seen in the background. The overall atmosphere of the scene is solemn and reflective of the event taking place."
+  },
+  {
+    "id": "clip_50_caption_embedding_frame_3588.jpg",
+    "caption": "The image features a man dressed in a regal outfit, possibly a royal or a maharaja, sitting on a bed. He is wearing a crown and a turban, which adds to his majestic appearance. The man is holding a small object, possibly a piece of jewelry or a decorative item, in his hand.\n\nThe bed occupies a significant portion of the scene, with the man sitting comfortably on it. The overall atmosphere of the image suggests a sense of luxury and opulence."
+  },
+  {
+    "id": "clip_51_caption_embedding_frame_3645.jpg",
+    "caption": "The image features a woman wearing a white headscarf, standing in a room with her head covered. She appears to be looking down, possibly contemplating or lost in thought. The room has a doorway and a window, providing a sense of depth to the scene."
+  },
+  {
+    "id": "clip_52_caption_embedding_frame_3702.jpg",
+    "caption": "The image features a man wearing a red hat and a red turban, standing next to a woman. The man appears to be wearing a costume, possibly a royal outfit, and he is looking at the woman. The woman is wearing a white dress, and they seem to be engaged in a conversation.\n\nIn the background, there is a book placed on a surface, possibly indicating a reading or learning activity. The scene appears to be set in a room with a dining table visible in the background."
+  },
+  {
+    "id": "clip_53_caption_embedding_frame_3774.jpg",
+    "caption": "The image features a man wearing a red turban and a red hat, standing in front of a woman. The man appears to be dressed in Indian garb, possibly a costume or traditional attire. The woman is wearing a white dress, and they seem to be engaged in a conversation or interaction.\n\nIn the background, there is a clock visible, adding to the overall ambiance of the scene. The man and woman are the main focus of the image, with the man's distinctive headwear and the woman's white dress drawing attention to their interaction."
+  },
+  {
+    "id": "clip_54_caption_embedding_frame_3831.jpg",
+    "caption": "The image features a woman wearing a white headscarf, sitting in a room with a man. She is looking at the man, who is also sitting in the room. The woman is wearing a white dress, and the man is dressed in a red robe. The scene appears to be a conversation or a meeting between the two individuals."
+  },
+  {
+    "id": "clip_55_caption_embedding_frame_3948.jpg",
+    "caption": "The image features a man wearing a red turban and a red hat, standing in front of a woman. The man appears to be a Sikh, as he is wearing a turban and a beard. The woman is wearing a white dress, and they seem to be engaged in a conversation.\n\nIn the scene, there are also two other people, one standing near the left edge of the image and the other person located in the upper right corner. The man in the red turban is the main focus of the image, as he is the one interacting with the woman."
+  },
+  {
+    "id": "clip_56_caption_embedding_frame_3975.jpg",
+    "caption": "The image features a man wearing a red turban and a red hat, standing in front of a woman. The man is dressed in a red outfit, which includes a red hat and a red turban. The woman is wearing a white outfit, and they appear to be engaged in a conversation.\n\nIn the background, there is a chair positioned near the right side of the scene. The man's outfit and the woman's white clothing create a contrasting color scheme in the image."
+  },
+  {
+    "id": "clip_57_caption_embedding_frame_4077.jpg",
+    "caption": "The image features a man wearing a red turban and a red and gold outfit, standing in front of a woman. The man appears to be a royal or a person of importance, as he is wearing a crown. The woman is wearing a white veil, which adds a contrasting element to the scene.\n\nThe man and woman are engaged in a conversation, with the man looking at the woman. The setting seems to be a formal or ceremonial event, as the man is dressed in a regal manner."
+  },
+  {
+    "id": "clip_58_caption_embedding_frame_4104.jpg",
+    "caption": "The image features a man wearing a red turban and a red hat, standing next to a woman. The man appears to be a Sikh, as he is wearing a turban and a beard. The woman is wearing a white veil, which is covering her face. They seem to be engaged in a conversation or a discussion.\n\nIn the background, there is a chair placed near the right side of the scene. The overall atmosphere of the image suggests a cultural or religious context, with the man and woman possibly belonging to the same faith or community."
+  },
+  {
+    "id": "clip_59_caption_embedding_frame_4206.jpg",
+    "caption": "The image features a woman wearing a white headscarf, standing in a dark room. She appears to be engaged in a conversation or listening to someone. The woman is looking at the camera, and her expression suggests that she is focused on the person she is talking to. The room has a somewhat mysterious atmosphere, with the woman being the main subject of the scene."
+  },
+  {
+    "id": "clip_5_caption_embedding_frame_333.jpg",
+    "caption": "The image depicts a man lying on a bed, covered in blood. He appears to be dead, with blood on his face and body. The bed is positioned in the center of the scene, and the man is lying on it, occupying a significant portion of the image. The overall atmosphere of the scene is quite disturbing and unsettling."
+  },
+  {
+    "id": "clip_60_caption_embedding_frame_4263.jpg",
+    "caption": "The image features a woman wearing a white headscarf, standing in a dark room. She appears to be looking at something, possibly a person or an object, with a focused expression. The woman's headscarf is covering her face, giving her a mysterious and intriguing appearance."
+  },
+  {
+    "id": "clip_61_caption_embedding_frame_4320.jpg",
+    "caption": "The image features a man wearing a red turban and a red beard, with a mustache. He is standing in front of another person, who is partially visible on the left side of the image. The man with the red beard appears to be wearing a gold necklace.\n\nThe scene takes place in a room with a dining table in the background. There are two chairs in the room, one located near the dining table and the other closer to the man with the red beard."
+  },
+  {
+    "id": "clip_62_caption_embedding_frame_4392.jpg",
+    "caption": "The image features a man wearing a red turban and a red hat, standing in front of a woman. The man appears to be wearing a beard and mustache, and he is looking at the woman with a focused expression. The woman is wearing a white dress, and the two of them seem to be engaged in a conversation or interaction. The scene appears to be set in a room with a dining table visible in the background."
+  },
+  {
+    "id": "clip_63_caption_embedding_frame_4464.jpg",
+    "caption": "The image features a man wearing a red turban and a red hat, standing in front of a woman. The man appears to be wearing a costume, possibly a traditional Indian outfit. The woman is wearing a white dress, and they seem to be engaged in a conversation.\n\nIn the scene, there are also two other people, one standing near the left edge of the image and the other person located in the upper right corner. The man in the red turban and hat seems to be the main focus of the scene."
+  },
+  {
+    "id": "clip_64_caption_embedding_frame_4581.jpg",
+    "caption": "The image features a man wearing a red turban and a red hat, standing in front of a woman. The man appears to be wearing a costume, possibly a traditional Indian outfit. The woman is wearing a white dress, and they seem to be engaged in a conversation.\n\nIn the scene, there are also two other people, one standing near the left edge of the image and the other person located in the upper right corner. The man in the red turban and hat seems to be the main focus of the scene."
+  },
+  {
+    "id": "clip_65_caption_embedding_frame_4623.jpg",
+    "caption": "The image features a man wearing a red turban and a red hat, standing in front of a woman. The man appears to be a performer, possibly a belly dancer, as he is wearing a gold necklace and a red hat. The woman is wearing a white dress, and they seem to be engaged in a conversation or performance.\n\nThe scene takes place in a room with a dining table in the background. There are two chairs placed near the table, and a bowl can be seen on the table. The overall atmosphere of the image suggests a cultural or artistic event."
+  },
+  {
+    "id": "clip_66_caption_embedding_frame_4680.jpg",
+    "caption": "The image features a man wearing a red turban and a red hat, standing in front of a woman. The man appears to be wearing a costume, possibly a traditional Indian outfit. The woman is wearing a white dress, and they seem to be engaged in a conversation.\n\nIn the background, there is a chair placed near the right side of the scene. The man's costume and the woman's white dress create a contrasting color scheme, adding visual interest to the image."
+  },
+  {
+    "id": "clip_67_caption_embedding_frame_4767.jpg",
+    "caption": "The image features a man wearing a red turban and a red hat, standing in front of a woman. The man appears to be a performer or a character from a play, as he is wearing a costume and a beard. The woman is also wearing a red hat, which adds to the visual connection between the two.\n\nThe scene takes place in a room with a dining table in the background. There are two chairs placed near the table, one on the left side and the other on the right side. The overall atmosphere of the image suggests a theatrical performance or a special event."
+  },
+  {
+    "id": "clip_68_caption_embedding_frame_4869.jpg",
+    "caption": "The image features a woman wearing a white veil, standing in a dark room. She appears to be looking at something, possibly a person or an object. The room has a few chairs placed around the area, with one chair located near the left side of the room and another chair closer to the right side. The woman's attire and the setting suggest that she might be attending a formal event or participating in a religious ceremony."
+  },
+  {
+    "id": "clip_69_caption_embedding_frame_4956.jpg",
+    "caption": "The image features a man wearing a red turban and a red hat, standing in front of a woman. The man appears to be a warrior, possibly from India, as he is wearing a costume and a hat. The woman is wearing a white veil, and they seem to be engaged in a conversation.\n\nThe man is holding a sword, which is visible in the scene. The woman is also holding a handbag, adding to the overall atmosphere of the scene. The man's costume and the woman's white veil create a contrasting visual effect, highlighting the cultural differences between the two characters."
+  },
+  {
+    "id": "clip_6_caption_embedding_frame_375.jpg",
+    "caption": "The image depicts a scene where a man is standing over a woman who is lying on the ground. The man appears to be a warrior, possibly a soldier, as he is holding a sword. The woman is lying on her back, and the man is standing close to her, possibly preparing to strike her.\n\nThere are several other people in the scene, some of them standing and others lying on the ground. The presence of multiple people in the image suggests that this could be a battle or a gathering of warriors."
+  },
+  {
+    "id": "clip_70_caption_embedding_frame_4998.jpg",
+    "caption": "The image features a man wearing a red turban and a red hat, standing in front of a woman. The man appears to be a warrior, possibly from a historical period, as he is dressed in a costume. The woman is wearing a white veil, and they seem to be engaged in a conversation.\n\nThe man is holding a sword, which is visible in his hand. The scene appears to be set in a dark room, with the man and woman standing close to each other."
+  },
+  {
+    "id": "clip_71_caption_embedding_frame_5055.jpg",
+    "caption": "The image features a man wearing a red turban and a red hat, standing in front of a woman. The man appears to be a Sikh, as he is wearing a turban and a beard. The woman is wearing a white robe, and they seem to be engaged in a conversation.\n\nThe man is also wearing a necklace, which adds to his distinct appearance. The scene appears to be set in a room, with a chair visible in the background. The man and woman are the main focus of the image, capturing their interaction and the cultural context of their meeting."
+  },
+  {
+    "id": "clip_72_caption_embedding_frame_5157.jpg",
+    "caption": "The image features a lavishly decorated room with a large chandelier hanging from the ceiling. There are two people in the room, one standing closer to the left side and the other near the center. Both individuals are wearing traditional Indian clothing, with one person wearing a turban.\n\nThe room is adorned with several chandeliers, creating a grand atmosphere. There are also multiple vases placed throughout the room, adding to the elegant decoration. The overall setting appears to be a palace or a similarly luxurious venue."
+  },
+  {
+    "id": "clip_73_caption_embedding_frame_5184.jpg",
+    "caption": "The image depicts a man standing on a stage, wearing a red outfit and a turban. He appears to be a performer or a singer, as he is holding a microphone in his hand. The stage is adorned with a large chandelier hanging above, adding to the ambiance of the scene.\n\nThere are several other people in the background, possibly as part of the audience or as performers themselves. The overall atmosphere of the scene suggests a lively and engaging event."
+  },
+  {
+    "id": "clip_74_caption_embedding_frame_5256.jpg",
+    "caption": "The image features a beautifully decorated room with a large chandelier hanging from the ceiling. Two women are standing in the room, one closer to the left side and the other near the center. They appear to be admiring the chandelier and the room's decorations.\n\nThere are several wine glasses scattered throughout the room, with some placed on surfaces and others hanging from the chandelier. The room also has a bench located towards the right side, and a chair can be seen in the background."
+  },
+  {
+    "id": "clip_75_caption_embedding_frame_5343.jpg",
+    "caption": "The image features a man wearing a turban and a long blue robe, standing in front of a mirror. He appears to be looking at himself in the mirror, possibly admiring his appearance or preparing for an event. The man is also wearing a necklace, adding to his overall attire.\n\nThe scene takes place in a room with a dining table visible in the background. There are several wine glasses placed on the table, suggesting that the man might be attending a social gathering or a special occasion."
+  },
+  {
+    "id": "clip_76_caption_embedding_frame_5400.jpg",
+    "caption": "The image depicts a group of people dressed in traditional Indian attire, standing in a room with a beautiful chandelier hanging above them. The individuals are wearing colorful outfits, and some of them are wearing turbans. They appear to be engaged in a conversation or a social gathering.\n\nThere are several chairs placed around the room, with one chair located near the left side of the image, another chair in the middle, and a third chair on the right side. The chandelier serves as a focal point in the room, adding a touch of elegance to the scene."
+  },
+  {
+    "id": "clip_77_caption_embedding_frame_5517.jpg",
+    "caption": "The image features a woman wearing a white veil, standing in a dark room. She appears to be looking at the camera, possibly posing for a picture. The room has a few chairs placed around the area, with one chair located near the left side of the room and another chair closer to the right side. The overall atmosphere of the scene is mysterious and intriguing."
+  },
+  {
+    "id": "clip_78_caption_embedding_frame_5544.jpg",
+    "caption": "The image features a man wearing a red turban and a red hat, with a beard and mustache. He appears to be a character from a movie or a theatrical performance. The man is looking directly at the camera, capturing the viewer's attention.\n\nIn the background, there are two chairs, one on the left side and the other on the right side of the scene. Additionally, there are two cups placed on surfaces, one near the left chair and the other near the right chair."
+  },
+  {
+    "id": "clip_79_caption_embedding_frame_5616.jpg",
+    "caption": "The image depicts a man dressed in a red robe, walking down a hallway in a large building. He appears to be the main focus of the scene, as he is the only person visible. The hallway is adorned with several statues, adding an artistic touch to the environment. The statues are placed at various positions along the hallway, creating a sense of depth and dimension to the scene."
+  },
+  {
+    "id": "clip_7_caption_embedding_frame_492.jpg",
+    "caption": "The image depicts a scene where a man is lying on the ground, possibly dead or unconscious. Another man, possibly a warrior, is standing over him, holding a sword. The warrior appears to be looking down at the fallen man, possibly assessing the situation or preparing for a fight.\n\nThere are several other people in the scene, some of them standing and others sitting. A few of them are holding swords, indicating that they might be warriors or soldiers as well. The overall atmosphere of the image suggests a tense or dramatic moment."
+  },
+  {
+    "id": "clip_80_caption_embedding_frame_5688.jpg",
+    "caption": "The image depicts a man walking down a hallway in a large building, possibly a palace or a temple. He is wearing a long robe and appears to be the main focus of the scene. The hallway is adorned with several statues, some of which are placed on the left side of the hallway, while others are on the right side. The statues vary in size and position, creating an atmosphere of grandeur and historical significance."
+  },
+  {
+    "id": "clip_81_caption_embedding_frame_5790.jpg",
+    "caption": "The image depicts a man walking down a hallway in a large building, possibly a palace or a temple. He is wearing a long robe and appears to be a monk. The man is walking towards a doorway, which is the main focus of the scene.\n\nThe hallway is adorned with several decorative elements, including a potted plant located near the right side of the image and a vase placed further down the hall. There are also two clocks visible in the scene, one on the left side and the other on the right side of the hallway."
+  },
+  {
+    "id": "clip_82_caption_embedding_frame_5892.jpg",
+    "caption": "The image depicts a group of people gathered in a room, possibly a temple or a palace. There are at least five people in the scene, with some standing closer to the foreground and others further back. They are all dressed in traditional attire, with some of them wearing headpieces.\n\nThe room is adorned with several lit candles, creating a warm and inviting atmosphere. The candles are placed on various surfaces, including a dining table and a bench. The people in the room seem to be enjoying a special occasion or a cultural event, as they are all dressed up and gathered together."
+  },
+  {
+    "id": "clip_83_caption_embedding_frame_5949.jpg",
+    "caption": "The image depicts a group of people gathered in a room, possibly a temple or a banquet hall. They are sitting around a dining table, enjoying a meal together. The table is adorned with various items, including a vase, a bowl, and a cup. There are also several cups placed around the table.\n\nThe people in the room are engaged in conversation and enjoying each other's company. Some of them are wearing traditional Indian attire, adding to the festive atmosphere. The room is illuminated by candles, creating a warm and inviting ambiance."
+  },
+  {
+    "id": "clip_84_caption_embedding_frame_6021.jpg",
+    "caption": "The image depicts a group of people gathered around a large, lit fire pit. The fire is burning brightly, creating a warm and inviting atmosphere. The people are standing around the fire pit, with some closer to the fire and others further away.\n\nThere are several individuals in the scene, with some standing closer to the left side of the image, while others are positioned more towards the right side. The overall scene appears to be a social gathering or a celebration, with the fire pit serving as a focal point for the attendees."
+  },
+  {
+    "id": "clip_85_caption_embedding_frame_6063.jpg",
+    "caption": "The image features a woman dressed in a traditional Indian outfit, standing in a room with a stone wall. She is holding a flower in her hand, possibly a rose, and appears to be in a celebratory mood. The room has a stone-like appearance, and there are several other people in the scene, some of whom are also dressed in traditional Indian attire.\n\nIn the background, there are two clocks visible, one on the left side and the other on the right side of the room. The presence of these clocks suggests that the room might be a part of a larger building or a public space."
+  },
+  {
+    "id": "clip_86_caption_embedding_frame_6120.jpg",
+    "caption": "The image depicts a group of women dressed in traditional Indian attire, standing in a room with stone walls. They are gathered around a woman who is holding a basket, possibly containing food or other items. The women are engaged in conversation and appear to be enjoying each other's company.\n\nThere are several bowls placed around the room, possibly used for serving food or other purposes. The room also features a clock on the wall, adding a decorative touch to the space. The overall atmosphere of the scene is warm and inviting."
+  },
+  {
+    "id": "clip_87_caption_embedding_frame_6237.jpg",
+    "caption": "The image features a woman dressed in traditional Indian attire, holding a silver tray filled with food. She is wearing a red and gold sari, which adds to the festive atmosphere. The woman appears to be in a room with other people, possibly attending a gathering or celebration.\n\nThere are several other people in the scene, some of whom are standing close to the woman with the tray, while others are positioned further away. The room seems to be a lively and social space, with people enjoying the food and the company."
+  },
+  {
+    "id": "clip_88_caption_embedding_frame_6279.jpg",
+    "caption": "The image features a woman dressed in traditional Indian attire, holding a silver tray with a cake on it. She is wearing a sari and has a beautiful red flower in her hair. The woman appears to be the center of attention, possibly celebrating a special occasion.\n\nThere are several other people in the scene, some of them standing closer to the woman with the cake, while others are further away. The presence of multiple people suggests that this could be a gathering or a celebration."
+  },
+  {
+    "id": "clip_89_caption_embedding_frame_6351.jpg",
+    "caption": "The image features a woman dressed in traditional Indian attire, wearing a red and gold sari. She is holding a silver tray filled with food, possibly a wedding cake. The woman appears to be the center of attention, possibly participating in a wedding celebration.\n\nThere are several other people in the scene, some of them standing close to the woman with the tray, while others are positioned further away. The overall atmosphere of the image suggests a joyful and festive occasion."
+  },
+  {
+    "id": "clip_8_caption_embedding_frame_534.jpg",
+    "caption": "The image features a bald man with a beard, wearing a necklace and a chain around his neck. He appears to be a shirtless man with a serious expression on his face. The man is standing in front of a building, possibly a temple, with a stone wall in the background.\n\nThere are several other people in the scene, some of them standing close to the main subject, while others are further away. The presence of multiple people suggests that this might be a gathering or an event taking place in the area."
+  },
+  {
+    "id": "clip_90_caption_embedding_frame_6468.jpg",
+    "caption": "The image depicts a group of people gathered in a courtyard, possibly in front of a temple. Among the group, there is a woman wearing a red dress, standing out from the rest. She is holding a plate with food on it, possibly offering it to the others.\n\nThere are several other people in the scene, some of them wearing traditional Indian clothing. The atmosphere appears to be festive, with the woman in the red dress being the center of attention. The group is standing around, engaging in conversation or enjoying the food."
+  },
+  {
+    "id": "clip_91_caption_embedding_frame_6540.jpg",
+    "caption": "The image depicts a group of people gathered in a courtyard, possibly in a foreign country. Among the group, there is a woman holding a plate of food, possibly offering it to others. The people are standing around, with some closer to the woman and others further away.\n\nThe courtyard is adorned with several lights, creating a warm and inviting atmosphere. The scene appears to be a social gathering or a celebration, with the woman and her plate of food playing a central role in the event."
+  },
+  {
+    "id": "clip_92_caption_embedding_frame_6567.jpg",
+    "caption": "The image depicts a group of people gathered in a large, ornate building, possibly a temple or a palace. The people are standing around, with some of them holding cell phones. The atmosphere appears to be festive, as there are several lit candles placed throughout the scene.\n\nThe building features a large archway, which serves as a focal point for the gathering. The people are spread out across the scene, with some standing closer to the archway and others further away. The combination of the lit candles and the ornate architecture creates a captivating and lively atmosphere."
+  },
+  {
+    "id": "clip_93_caption_embedding_frame_6624.jpg",
+    "caption": "The image features a woman sitting on a bed in a beautifully decorated room. She is wearing a white dress and appears to be looking down. The room is adorned with a variety of decorative elements, including a chandelier hanging from the ceiling, a vase placed on a surface, and a potted plant nearby. \n\nThere are also two couches in the room, one located on the left side and the other on the right side. A chair can be seen in the background, and a clock is mounted on the wall. The overall atmosphere of the room is elegant and inviting."
+  },
+  {
+    "id": "clip_94_caption_embedding_frame_6756.jpg",
+    "caption": "The image features a woman standing in a large, ornate room with a beautifully decorated ceiling. She is holding a plate in her hand, possibly preparing to serve food. The room is filled with intricate carvings and decorations, creating an elegant atmosphere.\n\nThere are several chandeliers hanging from the ceiling, adding to the room's grandeur. The woman appears to be the main focus of the scene, as she stands in the center of the room, surrounded by the impressive architecture."
+  },
+  {
+    "id": "clip_95_caption_embedding_frame_6783.jpg",
+    "caption": "The image features a woman sitting on a bed in a beautifully decorated room. She is wearing a white dress and appears to be posing for a picture. The room is adorned with a variety of decorative elements, including a chandelier hanging from the ceiling, a vase placed on a surface, and a potted plant nearby. The room also has a couch and a chair, providing additional seating options for the woman or any guests."
+  },
+  {
+    "id": "clip_96_caption_embedding_frame_6870.jpg",
+    "caption": "The image features a woman dressed in a white gown, standing in a room with a bed and a couch. She appears to be in a palace setting, possibly a royal court. The woman is holding a white cloth, possibly a blanket or a piece of clothing.\n\nThe room is adorned with several decorative elements, including a chandelier hanging from the ceiling, and a clock mounted on the wall. There are also two vases placed in the room, one near the bed and the other near the couch. The overall atmosphere of the scene is elegant and sophisticated."
+  },
+  {
+    "id": "clip_97_caption_embedding_frame_6927.jpg",
+    "caption": "The image features a woman standing in a large, ornate room with arched doorways. She is positioned in the center of the room, surrounded by a beautifully decorated environment. The room is filled with numerous chandeliers, creating a luxurious and elegant atmosphere.\n\nThere are several other people in the room, some of them standing closer to the woman, while others are further away. The room appears to be a gathering place or a venue for an event, with the woman possibly being the center of attention or a guest of honor."
+  },
+  {
+    "id": "clip_98_caption_embedding_frame_6984.jpg",
+    "caption": "The image features a woman standing in a room with a beautifully decorated ceiling. She is wearing a white dress and appears to be posing for a picture. The room has a bed with a white sheet and pillows, and a chair is placed nearby. \n\nThere are several decorative elements in the room, including a vase and a clock on the wall. Additionally, there are two books in the scene, one located closer to the woman and the other further away. The overall atmosphere of the room suggests a cozy and elegant setting."
+  },
+  {
+    "id": "clip_99_caption_embedding_frame_7101.jpg",
+    "caption": "The image features a woman dressed in a purple sari, standing in a large, ornate room with a high ceiling. She is holding a tray with food on it, possibly serving a meal to others in the room. The room is adorned with several chandeliers, adding to the grandeur of the setting.\n\nThere are a few other people in the room, with one person standing near the left side of the image and another person closer to the right side. The overall atmosphere of the scene suggests a formal or elegant gathering."
+  },
+  {
+    "id": "clip_9_caption_embedding_frame_606.jpg",
+    "caption": "The image features a woman wearing a white headscarf, standing in front of a building. She appears to be looking at the camera, possibly posing for a picture. The woman is the main focus of the scene, and her headscarf adds a unique touch to her appearance. The building in the background provides a sense of context to the setting."
+  }
+]
