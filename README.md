@@ -1,4 +1,4 @@
-﻿# Captioning
+﻿# Video Captioning
 Please use the requirements.txt to set up the conda environment/venv.
 
 modified_no_groq.py is the final code base that combines and runs the inference for all the three sampling methods, followed by captioning
